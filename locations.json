@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-09-30T17:41:40-07:00",
+  "generated_at": "2026-10-01T11:05:13-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -7052,7 +7052,7 @@
       "lon": -111.95716576
     },
     {
-      "name": "North Scottsdale United Methodist Church — Election Day",
+      "name": "Peace in the Desert Church — Election Day",
       "opens": "Nov 2, 2026",
       "opens_iso": "2026-11-02",
       "closes": "Nov 3, 2026",
@@ -17920,5 +17920,5 @@
       "lon": -114.6458945
     }
   ],
-  "last_checked": "2026-09-30T17:41:40-07:00"
+  "last_checked": "2026-10-01T11:05:13-07:00"
 }
