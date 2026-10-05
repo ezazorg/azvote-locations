@@ -10544,8 +10544,8 @@
       "city": "Winslow",
       "state": "AZ",
       "zip": "86047",
-      "lat": null,
-      "lon": null
+      "lat": 35.027866,
+      "lon": -110.691199
     },
     {
       "name": "Sipaulovi Youth & Elderly Center — Early Voting",
@@ -10734,8 +10734,8 @@
       "city": "",
       "state": "AZ",
       "zip": "",
-      "lat": null,
-      "lon": null
+      "lat": 35.87556,
+      "lon": -110.60672
     },
     {
       "name": "Indian Wells Elementary School — Drop Box",
@@ -11228,8 +11228,8 @@
       "city": "",
       "state": "AZ",
       "zip": "",
-      "lat": null,
-      "lon": null
+      "lat": 36.72776,
+      "lon": -110.25444
     },
     {
       "name": "Kykotsmovi Community Center — Election Day",
@@ -11646,8 +11646,8 @@
       "city": "Winslow",
       "state": "AZ",
       "zip": "",
-      "lat": null,
-      "lon": null
+      "lat": 35.027866,
+      "lon": -110.691199
     },
     {
       "name": "Woodruff Community Bldg. — Election Day",
@@ -11855,8 +11855,8 @@
       "city": "",
       "state": "AZ",
       "zip": "85634",
-      "lat": null,
-      "lon": null
+      "lat": 31.92,
+      "lon": -111.905
     },
     {
       "name": "Accelerated Elementary & Secondary School — Election Day",
@@ -15574,13 +15574,13 @@
       "county": "Pinal",
       "description": "Opens: Nov 3, 2026 | Voting system: Precinct voting | County: Pinal | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General polling place | Source: https://www.pinal.gov/DocumentCenter/View/28341 | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "61            San Tan                                                  2230 N Homerun Dr, Sacaton, AZ 85147",
-      "street": "61            San Tan                                                  2230 N Homerun Dr",
+      "address": "2230 N Homerun Dr, Sacaton, AZ 85147",
+      "street": "2230 N Homerun Dr",
       "city": "Sacaton",
       "state": "AZ",
       "zip": "85147",
-      "lat": null,
-      "lon": null
+      "lat": 33.162233,
+      "lon": -111.804973
     },
     {
       "name": "Polling Place — Election Day",
@@ -15935,13 +15935,13 @@
       "county": "Pinal",
       "description": "Opens: Nov 3, 2026 | Voting system: Precinct voting | County: Pinal | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General polling place | Source: https://www.pinal.gov/DocumentCenter/View/28341 | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "92                          Eagle Crest                     Association #2 Desert View, Tucson, AZ 85739",
-      "street": "92                          Eagle Crest                     Association #2 Desert View",
+      "address": "DesertView Clubhouse, SaddleBrooke HOA #2, Tucson, AZ 85739",
+      "street": "DesertView Clubhouse, SaddleBrooke HOA #2",
       "city": "Tucson",
       "state": "AZ",
       "zip": "85739",
-      "lat": null,
-      "lon": null
+      "lat": 32.514287,
+      "lon": -110.9031653
     },
     {
       "name": "Polling Place — Election Day",
