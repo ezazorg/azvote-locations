@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-05T12:08:32-07:00",
+  "generated_at": "2026-10-05T17:30:46-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -4457,8 +4457,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Maricopa",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Drop Box | Hours: Oct 7–9: 7:30 AM–4:00 PM | Oct 10–11: Closed | Oct 12–16: 7:30 AM–4:00 PM | Oct 17–18: Closed | Oct 19–22: 7:30 AM–4:00 PM | Oct 23: 8:00 AM–4:00 PM | Oct 24–25: Closed | Oct 26–30: 7:30 AM–4:00 PM | Oct 31–Nov 1: Closed | Nov 2: 7:30 AM–4:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Ballot drop-off location (county drop-box roster). | Source: https://locations.maricopa.vote | Status: published_final",
-      "hours": "Oct 7–9: 7:30 AM–4:00 PM\nOct 10–11: Closed\nOct 12–16: 7:30 AM–4:00 PM\nOct 17–18: Closed\nOct 19–22: 7:30 AM–4:00 PM\nOct 23: 8:00 AM–4:00 PM\nOct 24–25: Closed\nOct 26–30: 7:30 AM–4:00 PM\nOct 31–Nov 1: Closed\nNov 2: 7:30 AM–4:00 PM\nNov 3: 6:00 AM–7:00 PM",
+      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Drop Box | Hours: Oct 7–8: 7:30 AM–4:00 PM | Oct 9–11: Closed | Oct 12–15: 7:30 AM–4:00 PM | Oct 16–18: Closed | Oct 19–22: 7:30 AM–4:00 PM | Oct 23: 8:00 AM–4:00 PM | Oct 24–25: Closed | Oct 26–30: 7:30 AM–4:00 PM | Oct 31–Nov 1: Closed | Nov 2: 7:30 AM–4:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Ballot drop-off location (county drop-box roster). | Source: https://locations.maricopa.vote | Status: published_final",
+      "hours": "Oct 7–8: 7:30 AM–4:00 PM\nOct 9–11: Closed\nOct 12–15: 7:30 AM–4:00 PM\nOct 16–18: Closed\nOct 19–22: 7:30 AM–4:00 PM\nOct 23: 8:00 AM–4:00 PM\nOct 24–25: Closed\nOct 26–30: 7:30 AM–4:00 PM\nOct 31–Nov 1: Closed\nNov 2: 7:30 AM–4:00 PM\nNov 3: 6:00 AM–7:00 PM",
       "address": "2935 S Recker Rd, Gilbert, AZ 85295",
       "street": "2935 S Recker Rd",
       "city": "Gilbert",
@@ -17920,5 +17920,5 @@
       "lon": -114.6458945
     }
   ],
-  "last_checked": "2026-10-05T12:08:32-07:00"
+  "last_checked": "2026-10-05T17:30:46-07:00"
 }
