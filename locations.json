@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-06T11:08:40-07:00",
+  "generated_at": "2026-10-06T17:33:27-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -4381,8 +4381,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Maricopa",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Drop Box | Hours: Oct 7–8: 7:00 AM–6:00 PM | Oct 9–11: Closed | Oct 12–15: 7:00 AM–6:00 PM | Oct 16–18: Closed | Oct 19–22: 7:00 AM–6:00 PM | Oct 23–25: Closed | Oct 26–29: 7:00 AM–6:00 PM | Oct 30–Nov 1: Closed | Nov 2: 7:00 AM–6:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Ballot drop-off location (county drop-box roster). | Source: https://locations.maricopa.vote | Status: published_final",
-      "hours": "Oct 7–8: 7:00 AM–6:00 PM\nOct 9–11: Closed\nOct 12–15: 7:00 AM–6:00 PM\nOct 16–18: Closed\nOct 19–22: 7:00 AM–6:00 PM\nOct 23–25: Closed\nOct 26–29: 7:00 AM–6:00 PM\nOct 30–Nov 1: Closed\nNov 2: 7:00 AM–6:00 PM\nNov 3: 6:00 AM–7:00 PM",
+      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Drop Box | Hours: Oct 7–8: 7:00 AM–6:00 PM | Oct 9–11: Closed | Oct 12–15: 7:00 AM–6:00 PM | Oct 16–18: Closed | Oct 19–22: 7:00 AM–6:00 PM | Oct 23–25: Closed | Oct 26–29: 7:00 AM–6:00 PM | Oct 30–Nov 1: Closed | Nov 2: 7:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Ballot drop-off location (county drop-box roster). | Source: https://locations.maricopa.vote | Status: published_final",
+      "hours": "Oct 7–8: 7:00 AM–6:00 PM\nOct 9–11: Closed\nOct 12–15: 7:00 AM–6:00 PM\nOct 16–18: Closed\nOct 19–22: 7:00 AM–6:00 PM\nOct 23–25: Closed\nOct 26–29: 7:00 AM–6:00 PM\nOct 30–Nov 1: Closed\nNov 2: 7:00 AM–5:00 PM\nNov 3: 6:00 AM–7:00 PM",
       "address": "50 E Civic Center Dr, Gilbert, AZ 85296",
       "street": "50 E Civic Center Dr",
       "city": "Gilbert",
@@ -4791,7 +4791,7 @@
       "lon": -112.07425121
     },
     {
-      "name": "Asu Poly Tech Century Hall — Early Voting",
+      "name": "Asu Polytechnic Academic Center — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
       "closes": "Nov 3, 2026",
@@ -4799,15 +4799,15 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Maricopa",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Early Voting | Hours: Oct 7–9: 9:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 9:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–24: 9:00 AM–5:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. Non-electioneering site per county (**). | Source: https://locations.maricopa.vote | Status: published_final",
+      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Early Voting | Hours: Oct 7–9: 9:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 9:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–24: 9:00 AM–5:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. | Source: https://locations.maricopa.vote | Status: published_final",
       "hours": "Oct 7–9: 9:00 AM–5:00 PM\nOct 10–11: Closed\nOct 12–16: 9:00 AM–5:00 PM\nOct 17–18: Closed\nOct 19–24: 9:00 AM–5:00 PM\nOct 25: Closed\nOct 26–30: 9:00 AM–7:00 PM\nOct 31: 9:00 AM–5:00 PM\nNov 1: Closed\nNov 2: 9:00 AM–5:00 PM\nNov 3: 6:00 AM–7:00 PM",
-      "address": "5937 S Backus Mall, Mesa, AZ 85212",
-      "street": "5937 S Backus Mall",
+      "address": "5988 S Backus Mall, Mesa, AZ 85212",
+      "street": "5988 S Backus Mall",
       "city": "Mesa",
       "state": "AZ",
       "zip": "85212",
-      "lat": 33.30811314,
-      "lon": -111.67745772
+      "lat": 33.30710758,
+      "lon": -111.67832836
     },
     {
       "name": "Asu Sun Devil Fitness Center (Free Parking) — Early Voting",
@@ -17920,5 +17920,5 @@
       "lon": -114.6458945
     }
   ],
-  "last_checked": "2026-10-06T11:08:40-07:00"
+  "last_checked": "2026-10-06T17:33:27-07:00"
 }
