@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-14T17:32:24-07:00",
+  "generated_at": "2026-10-15T11:12:37-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -7394,7 +7394,7 @@
       "lon": -112.08324698
     },
     {
-      "name": "Sunset Canyon School — Election Day",
+      "name": "Sunset Canyon-JPL Learning Center — Election Day",
       "opens": "Nov 2, 2026",
       "opens_iso": "2026-11-02",
       "closes": "Nov 3, 2026",
@@ -17920,5 +17920,5 @@
       "lon": -114.6458945
     }
   ],
-  "last_checked": "2026-10-14T17:32:24-07:00"
+  "last_checked": "2026-10-15T11:12:37-07:00"
 }
