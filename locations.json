@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T12:46:23-07:00",
+  "generated_at": "2026-10-17T12:47:29-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -12857,11 +12857,11 @@
       "county": "Pima",
       "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED | Source: https://storageccec.blob.core.usgovcloudapi.net/public/docs/1500-General_-Election_Vote_Center-List_2026-Pima.pdf | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "530 N Wilmot Road, Tucson, AZ 85710",
+      "address": "530 N Wilmot Road, Tucson, AZ 85711",
       "street": "530 N Wilmot Road",
       "city": "Tucson",
       "state": "AZ",
-      "zip": "85710",
+      "zip": "85711",
       "lat": 32.2275146,
       "lon": -110.8578865
     },
@@ -13104,11 +13104,11 @@
       "county": "Pima",
       "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED | Source: https://storageccec.blob.core.usgovcloudapi.net/public/docs/1500-General_-Election_Vote_Center-List_2026-Pima.pdf | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "777 W Cushing Street, Tucson, AZ 85711",
+      "address": "777 W Cushing Street, Tucson, AZ 85745",
       "street": "777 W Cushing Street",
       "city": "Tucson",
       "state": "AZ",
-      "zip": "85711",
+      "zip": "85745",
       "lat": 32.2173063,
       "lon": -110.9817034
     },
@@ -18813,5 +18813,5 @@
       "lon": -114.4139857
     }
   ],
-  "last_checked": "2026-10-17T12:46:23-07:00"
+  "last_checked": "2026-10-17T12:47:29-07:00"
 }
