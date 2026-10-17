@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T11:25:32-07:00",
+  "generated_at": "2026-10-17T12:30:17-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -12629,8 +12629,8 @@
       "county": "Pima",
       "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED | Source: https://storageccec.blob.core.usgovcloudapi.net/public/docs/1500-General_-Election_Vote_Center-List_2026-Pima.pdf | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "71 E Sahuarita Road, Sahuarita, AZ 85629",
-      "street": "71 E Sahuarita Road",
+      "address": "71 W Sahuarita Road, Sahuarita, AZ 85629",
+      "street": "71 W Sahuarita Road",
       "city": "Sahuarita",
       "state": "AZ",
       "zip": "85629",
@@ -18813,5 +18813,5 @@
       "lon": -114.4139857
     }
   ],
-  "last_checked": "2026-10-17T11:25:32-07:00"
+  "last_checked": "2026-10-17T12:30:17-07:00"
 }
