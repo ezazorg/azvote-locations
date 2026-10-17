@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T12:49:25-07:00",
+  "generated_at": "2026-10-17T15:12:37-05:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -130,9 +130,9 @@
       "zip": "",
       "lat": 36.1501434,
       "lon": -109.5670685,
-      "site_name": "Chinle Road Yard Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Chinle Road Yard",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Concho Library — Drop Box",
@@ -174,9 +174,9 @@
       "zip": "",
       "lat": 35.7354194,
       "lon": -109.051808,
-      "site_name": "Fort Defiance Road Yard Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Fort Defiance Road Yard",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Ganado Road Yard Drop Box",
@@ -196,9 +196,9 @@
       "zip": "",
       "lat": 35.7116198,
       "lon": -109.542121,
-      "site_name": "Ganado Road Yard Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Ganado Road Yard",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Puerco (Sanders) Justice Court — Drop Box",
@@ -262,9 +262,9 @@
       "zip": "",
       "lat": 34.5068947,
       "lon": -109.3633329,
-      "site_name": "St. Johns County Annex Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "St. Johns County Annex",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Teec Nos Pos Road Yard Drop Box",
@@ -284,9 +284,9 @@
       "zip": "",
       "lat": 36.9231409,
       "lon": -109.0963926,
-      "site_name": "Teec Nos Pos Road Yard Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Teec Nos Pos Road Yard",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Vernon Library — Drop Box",
@@ -1098,9 +1098,9 @@
       "zip": "",
       "lat": 31.3939354,
       "lon": -109.9256653,
-      "site_name": "Cochise County Recorder (Bisbee) Early Voting",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Cochise County Recorder (Bisbee)",
+      "label_en": "Early Voting",
+      "label_es": "Votación anticipada"
     },
     {
       "name": "Cochise County Recorder (Bisbee) Drop Box",
@@ -1120,9 +1120,9 @@
       "zip": "",
       "lat": 31.3939354,
       "lon": -109.9256653,
-      "site_name": "Cochise County Recorder (Bisbee) Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Cochise County Recorder (Bisbee)",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "County Service Center (Benson) Drop Box",
@@ -1142,9 +1142,9 @@
       "zip": "",
       "lat": 31.9676387,
       "lon": -110.2984255,
-      "site_name": "County Service Center (Benson) Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "County Service Center (Benson)",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "County Service Center (Douglas) Drop Box",
@@ -1164,9 +1164,9 @@
       "zip": "",
       "lat": 31.3446509,
       "lon": -109.5546011,
-      "site_name": "County Service Center (Douglas) Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "County Service Center (Douglas)",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "County Service Center (Sierra Vista) Drop Box",
@@ -1186,9 +1186,9 @@
       "zip": "",
       "lat": 31.5454583,
       "lon": -110.2572738,
-      "site_name": "County Service Center (Sierra Vista) Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "County Service Center (Sierra Vista)",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "County Service Center (Willcox) Drop Box",
@@ -1208,9 +1208,9 @@
       "zip": "",
       "lat": 32.2487453,
       "lon": -109.8349622,
-      "site_name": "County Service Center (Willcox) Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "County Service Center (Willcox)",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "VC1 Douglas Service Center — Election Day",
@@ -1626,9 +1626,9 @@
       "zip": "",
       "lat": 35.2110495,
       "lon": -111.6142648,
-      "site_name": "3rd Street Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "3rd Street",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "ADOT Motor Vehicle Division — Drop Box",
@@ -3320,9 +3320,9 @@
       "zip": "",
       "lat": 33.781536,
       "lon": -110.0259311,
-      "site_name": "Canyon Day Assembly of God Church Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Canyon Day Assembly of God Church",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Gila County Recorder's Office - Globe Drop Box",
@@ -3342,9 +3342,9 @@
       "zip": "85501",
       "lat": 33.3958973,
       "lon": -110.7723574,
-      "site_name": "Gila County Recorder's Office - Globe Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Gila County Recorder's Office - Globe",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Gila County Recorder's Office - Payson Drop Box",
@@ -3364,9 +3364,9 @@
       "zip": "85541",
       "lat": 34.2319572,
       "lon": -111.3256153,
-      "site_name": "Gila County Recorder's Office - Payson Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Gila County Recorder's Office - Payson",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Hayden Town Hall Drop Box",
@@ -3386,9 +3386,9 @@
       "zip": "",
       "lat": 33.0029545,
       "lon": -110.7850386,
-      "site_name": "Hayden Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Hayden Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Miami Police Station Drop Box",
@@ -3408,9 +3408,9 @@
       "zip": "",
       "lat": 33.3980735,
       "lon": -110.8731512,
-      "site_name": "Miami Police Station Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Miami Police Station",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Mitchell Hoffman Administration Building Drop Box",
@@ -3430,9 +3430,9 @@
       "zip": "",
       "lat": 33.35075,
       "lon": -110.4670301,
-      "site_name": "Mitchell Hoffman Administration Building Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Mitchell Hoffman Administration Building",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Pine Fire Station Drop Box",
@@ -3452,9 +3452,9 @@
       "zip": "",
       "lat": 34.3844584,
       "lon": -111.4572014,
-      "site_name": "Pine Fire Station Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Pine Fire Station",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Roosevelt Fire Station Drop Box",
@@ -3474,9 +3474,9 @@
       "zip": "",
       "lat": 33.6031284,
       "lon": -111.0057512,
-      "site_name": "Roosevelt Fire Station Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Roosevelt Fire Station",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Star Valley Town Hall Drop Box",
@@ -3496,9 +3496,9 @@
       "zip": "",
       "lat": 34.2532451,
       "lon": -111.2652817,
-      "site_name": "Star Valley Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Star Valley Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Tonto Basin Fire Station Drop Box",
@@ -3518,9 +3518,9 @@
       "zip": "",
       "lat": 33.831154,
       "lon": -111.2985778,
-      "site_name": "Tonto Basin Fire Station Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Tonto Basin Fire Station",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Young Library Drop Box",
@@ -3540,9 +3540,9 @@
       "zip": "",
       "lat": 34.1008709,
       "lon": -110.9524177,
-      "site_name": "Young Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Young Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Gila County Recorder - Globe — Early Voting",
@@ -4024,9 +4024,9 @@
       "zip": "85546",
       "lat": 32.8347987,
       "lon": -109.7181932,
-      "site_name": "Graham County Recorder Early Voting",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Graham County Recorder",
+      "label_en": "Early Voting",
+      "label_es": "Votación anticipada"
     },
     {
       "name": "Bonita Elementary School Drop Box",
@@ -4046,9 +4046,9 @@
       "zip": "",
       "lat": 32.5872921,
       "lon": -109.9751458,
-      "site_name": "Bonita Elementary School Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Bonita Elementary School",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Graham County General Services Bldg Drop Box",
@@ -4068,9 +4068,9 @@
       "zip": "85546",
       "lat": 32.8347987,
       "lon": -109.7181932,
-      "site_name": "Graham County General Services Bldg Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Graham County General Services Bldg",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Meg's Place Drop Box",
@@ -4090,9 +4090,9 @@
       "zip": "",
       "lat": 33.0369124,
       "lon": -109.9636829,
-      "site_name": "Meg's Place Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Meg's Place",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Peridot Administration Office Drop Box",
@@ -4112,9 +4112,9 @@
       "zip": "",
       "lat": 33.2934882,
       "lon": -110.4358854,
-      "site_name": "Peridot Administration Office Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Peridot Administration Office",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Robert Olivar Sr. Learning Center Drop Box",
@@ -4134,9 +4134,9 @@
       "zip": "",
       "lat": 33.12152,
       "lon": -110.1096,
-      "site_name": "Robert Olivar Sr. Learning Center Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Robert Olivar Sr. Learning Center",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "AG Bldg Fair Grounds — Election Day",
@@ -4464,9 +4464,9 @@
       "zip": "85344",
       "lat": 34.1487005,
       "lon": -114.2897182,
-      "site_name": "La Paz County Recorder Lobby Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "La Paz County Recorder Lobby",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "La Paz County Recorder's Office — Early Voting",
@@ -4508,9 +4508,9 @@
       "zip": "85334",
       "lat": 33.6177814,
       "lon": -114.5061023,
-      "site_name": "Ehrenberg Fire Station (Satellite Early Voting)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Ehrenberg Fire Station",
+      "label_en": "Satellite Early Voting",
+      "label_es": "Votación anticipada satelital"
     },
     {
       "name": "Quartzsite Community Center (Satellite Early Voting)",
@@ -4530,9 +4530,9 @@
       "zip": "85346",
       "lat": 33.6754745,
       "lon": -114.2125857,
-      "site_name": "Quartzsite Community Center (Satellite Early Voting)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Quartzsite Community Center",
+      "label_en": "Satellite Early Voting",
+      "label_es": "Votación anticipada satelital"
     },
     {
       "name": "Centennial Public Library (Satellite Early Voting)",
@@ -4552,9 +4552,9 @@
       "zip": "85348",
       "lat": 33.7634869,
       "lon": -113.5749982,
-      "site_name": "Centennial Public Library (Satellite Early Voting)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Centennial Public Library",
+      "label_en": "Satellite Early Voting",
+      "label_es": "Votación anticipada satelital"
     },
     {
       "name": "Bouse Community Building (Satellite Early Voting)",
@@ -4574,9 +4574,9 @@
       "zip": "85325",
       "lat": 33.9316671,
       "lon": -114.00698,
-      "site_name": "Bouse Community Building (Satellite Early Voting)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Bouse Community Building",
+      "label_en": "Satellite Early Voting",
+      "label_es": "Votación anticipada satelital"
     },
     {
       "name": "Bouse Community Building — Election Day",
@@ -13352,9 +13352,9 @@
       "zip": "85737",
       "lat": 32.4097103,
       "lon": -110.991946,
-      "site_name": "Oro Valley Public Library Drive-Up Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Oro Valley Public Library",
+      "label_en": "Drive-Up Drop Box",
+      "label_es": "Buzón de boletas (desde el auto)"
     },
     {
       "name": "Pascua Yaqui Tribal Chambers Drop Box",
@@ -13374,9 +13374,9 @@
       "zip": "85757",
       "lat": 32.1156866,
       "lon": -111.0632259,
-      "site_name": "Pascua Yaqui Tribal Chambers Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Pascua Yaqui Tribal Chambers",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Recorder Eastside Walk-Up Drop Box",
@@ -13396,9 +13396,9 @@
       "zip": "85710",
       "lat": 32.2209812,
       "lon": -110.8447559,
-      "site_name": "Recorder Eastside Walk-Up Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Recorder Eastside",
+      "label_en": "Walk-Up Drop Box",
+      "label_es": "Buzón de boletas (a pie)"
     },
     {
       "name": "Recorder Main Office Walk-Up Drop Box",
@@ -13418,9 +13418,9 @@
       "zip": "85701",
       "lat": 32.2253596,
       "lon": -110.9716446,
-      "site_name": "Recorder Main Office Walk-Up Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Recorder Main Office",
+      "label_en": "Walk-Up Drop Box",
+      "label_es": "Buzón de boletas (a pie)"
     },
     {
       "name": "Sahuarita Town Hall Drive-Up Drop Box",
@@ -13440,9 +13440,9 @@
       "zip": "85629",
       "lat": 31.9567146,
       "lon": -110.9758597,
-      "site_name": "Sahuarita Town Hall Drive-Up Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Sahuarita Town Hall",
+      "label_en": "Drive-Up Drop Box",
+      "label_es": "Buzón de boletas (desde el auto)"
     },
     {
       "name": "School Superintendent Drive-Up Drop Box",
@@ -13462,9 +13462,9 @@
       "zip": "85701",
       "lat": 32.2243736,
       "lon": -110.9715603,
-      "site_name": "School Superintendent Drive-Up Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "School Superintendent",
+      "label_en": "Drive-Up Drop Box",
+      "label_es": "Buzón de boletas (desde el auto)"
     },
     {
       "name": "Sells Post Office Drop Box",
@@ -13484,9 +13484,9 @@
       "zip": "",
       "lat": 31.91488,
       "lon": -111.888114,
-      "site_name": "Sells Post Office Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Sells Post Office",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Pima County Recorder Main Office — Early Voting",
@@ -16168,9 +16168,9 @@
       "zip": "85119",
       "lat": 33.4217767,
       "lon": -111.5460325,
-      "site_name": "Apache Junction Recorder Exterior Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Apache Junction Recorder",
+      "label_en": "Exterior Drop Box",
+      "label_es": "Buzón de boletas exterior"
     },
     {
       "name": "Arizona City Sheriff Substation Drop Box",
@@ -16190,9 +16190,9 @@
       "zip": "85123",
       "lat": 32.7534191,
       "lon": -111.6711876,
-      "site_name": "Arizona City Sheriff Substation Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Arizona City Sheriff Substation",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Casa Grande Recorder Exterior Drop Box",
@@ -16212,9 +16212,9 @@
       "zip": "85122",
       "lat": 32.8941813,
       "lon": -111.7423563,
-      "site_name": "Casa Grande Recorder Exterior Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Casa Grande Recorder",
+      "label_en": "Exterior Drop Box",
+      "label_es": "Buzón de boletas exterior"
     },
     {
       "name": "Coolidge Drop Box",
@@ -16234,9 +16234,9 @@
       "zip": "85128",
       "lat": 32.9769684,
       "lon": -111.5179793,
-      "site_name": "Coolidge Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Coolidge",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Eloy County Health Bldg Drop Box",
@@ -16256,9 +16256,9 @@
       "zip": "85131",
       "lat": 32.7539726,
       "lon": -111.5503259,
-      "site_name": "Eloy County Health Bldg Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Eloy County Health Bldg",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Florence Recorder Exterior Drop Box",
@@ -16278,9 +16278,9 @@
       "zip": "85132",
       "lat": 33.0346615,
       "lon": -111.3862516,
-      "site_name": "Florence Recorder Exterior Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Florence Recorder",
+      "label_en": "Exterior Drop Box",
+      "label_es": "Buzón de boletas exterior"
     },
     {
       "name": "Maricopa Recorder Exterior Drop Box",
@@ -16300,9 +16300,9 @@
       "zip": "85139",
       "lat": 33.0621066,
       "lon": -112.0524632,
-      "site_name": "Maricopa Recorder Exterior Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Maricopa Recorder",
+      "label_en": "Exterior Drop Box",
+      "label_es": "Buzón de boletas exterior"
     },
     {
       "name": "Oracle Justice Court Drop Box",
@@ -16322,9 +16322,9 @@
       "zip": "85623",
       "lat": 32.6145127,
       "lon": -110.7635188,
-      "site_name": "Oracle Justice Court Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Oracle Justice Court",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "San Tan Valley Health Dept Drop Box",
@@ -16344,9 +16344,9 @@
       "zip": "85140",
       "lat": 33.2078685,
       "lon": -111.565283,
-      "site_name": "San Tan Valley Health Dept Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "San Tan Valley Health Dept",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "San Tan Valley Recorder Exterior Drop Box",
@@ -16366,9 +16366,9 @@
       "zip": "85143",
       "lat": 33.1688185,
       "lon": -111.5186906,
-      "site_name": "San Tan Valley Recorder Exterior Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "San Tan Valley Recorder",
+      "label_en": "Exterior Drop Box",
+      "label_es": "Buzón de boletas exterior"
     },
     {
       "name": "Apache Junction Recorder's Office — Early Voting",
@@ -18500,9 +18500,9 @@
       "zip": "",
       "lat": 31.5482499,
       "lon": -111.0237865,
-      "site_name": "El Ranchito Market Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "El Ranchito Market",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Gabilondo-Zehentner County Svc Ctr Drop Box",
@@ -18522,9 +18522,9 @@
       "zip": "85648",
       "lat": 31.4699569,
       "lon": -110.9920232,
-      "site_name": "Gabilondo-Zehentner County Svc Ctr Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Gabilondo-Zehentner County Svc Ctr",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Nogales City Hall Drop Box",
@@ -18544,9 +18544,9 @@
       "zip": "",
       "lat": 31.3457645,
       "lon": -110.9310644,
-      "site_name": "Nogales City Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Nogales City Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Nogales Public Library Drop Box",
@@ -18566,9 +18566,9 @@
       "zip": "",
       "lat": 31.3407167,
       "lon": -110.9357693,
-      "site_name": "Nogales Public Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Nogales Public Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Patagonia Town Hall Drop Box",
@@ -18588,9 +18588,9 @@
       "zip": "85624",
       "lat": 31.5399095,
       "lon": -110.7539012,
-      "site_name": "Patagonia Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Patagonia Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Santa Cruz County Complex Drop Boxes",
@@ -18610,9 +18610,9 @@
       "zip": "85621",
       "lat": 31.3714446,
       "lon": -110.9404658,
-      "site_name": "Santa Cruz County Complex Drop Boxes",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Santa Cruz County Complex",
+      "label_en": "Drop Boxes",
+      "label_es": "Buzones de boletas"
     },
     {
       "name": "Sonoita Library/County Complex Drop Box",
@@ -18632,9 +18632,9 @@
       "zip": "85637",
       "lat": 31.6740811,
       "lon": -110.6557237,
-      "site_name": "Sonoita Library/County Complex Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Sonoita Library/County Complex",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Tubac Community Center Drop Box",
@@ -18654,9 +18654,9 @@
       "zip": "85646",
       "lat": 31.616093,
       "lon": -111.0438277,
-      "site_name": "Tubac Community Center Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Tubac Community Center",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Santa Cruz County Complex Early Voting",
@@ -18676,9 +18676,9 @@
       "zip": "85621",
       "lat": 31.3714446,
       "lon": -110.9404658,
-      "site_name": "Santa Cruz County Complex Early Voting",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Santa Cruz County Complex",
+      "label_en": "Early Voting",
+      "label_es": "Votación anticipada"
     },
     {
       "name": "Rio Rico Early Voting (Sat Oct 17)",
@@ -19094,9 +19094,9 @@
       "zip": "",
       "lat": 34.5702735,
       "lon": -113.1764777,
-      "site_name": "Bagdad Justice Court Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Bagdad Justice Court",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Black Canyon City Library Drop Box",
@@ -19116,9 +19116,9 @@
       "zip": "",
       "lat": 34.0633113,
       "lon": -112.1479527,
-      "site_name": "Black Canyon City Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Black Canyon City Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Camp Verde Town Hall Drop Box",
@@ -19138,9 +19138,9 @@
       "zip": "86322",
       "lat": 34.5625552,
       "lon": -111.8536658,
-      "site_name": "Camp Verde Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Camp Verde Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Chino Valley Town Hall Drop Box",
@@ -19160,9 +19160,9 @@
       "zip": "86323",
       "lat": 34.7480087,
       "lon": -112.4544502,
-      "site_name": "Chino Valley Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Chino Valley Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Clarkdale Town Hall Drop Box",
@@ -19182,9 +19182,9 @@
       "zip": "",
       "lat": 34.7717041,
       "lon": -112.0574238,
-      "site_name": "Clarkdale Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Clarkdale Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Congress Library Drop Box",
@@ -19204,9 +19204,9 @@
       "zip": "",
       "lat": 34.1610331,
       "lon": -112.8469218,
-      "site_name": "Congress Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Congress Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Cottonwood County Administration Drop Box",
@@ -19226,9 +19226,9 @@
       "zip": "86326",
       "lat": 34.7392794,
       "lon": -112.0228127,
-      "site_name": "Cottonwood County Administration Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Cottonwood County Administration",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Dewey-Humboldt Town Hall Drop Box",
@@ -19248,9 +19248,9 @@
       "zip": "86327",
       "lat": 34.5041858,
       "lon": -112.2433808,
-      "site_name": "Dewey-Humboldt Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Dewey-Humboldt Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Jerome Town Hall Drop Box",
@@ -19270,9 +19270,9 @@
       "zip": "86331",
       "lat": 34.7483922,
       "lon": -112.1148372,
-      "site_name": "Jerome Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Jerome Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Paulden Library Drop Box",
@@ -19292,9 +19292,9 @@
       "zip": "",
       "lat": 34.9095333,
       "lon": -112.5025119,
-      "site_name": "Paulden Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Paulden Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Prescott County Administration Drop Box",
@@ -19314,9 +19314,9 @@
       "zip": "86305",
       "lat": 34.553405,
       "lon": -112.4836881,
-      "site_name": "Prescott County Administration Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Prescott County Administration",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Prescott Valley Town Hall Drop Box",
@@ -19336,9 +19336,9 @@
       "zip": "",
       "lat": 34.594931,
       "lon": -112.3311616,
-      "site_name": "Prescott Valley Town Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Prescott Valley Town Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Sedona City Hall Drop Box",
@@ -19358,9 +19358,9 @@
       "zip": "",
       "lat": 34.8630878,
       "lon": -111.8141229,
-      "site_name": "Sedona City Hall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Sedona City Hall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Seligman Library Drop Box",
@@ -19380,9 +19380,9 @@
       "zip": "",
       "lat": 35.3273054,
       "lon": -112.8740522,
-      "site_name": "Seligman Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Seligman Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Skull Valley Post Office Drop Box",
@@ -19402,9 +19402,9 @@
       "zip": "",
       "lat": 34.5307699,
       "lon": -112.6861691,
-      "site_name": "Skull Valley Post Office Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Skull Valley Post Office",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Spring Valley Library Drop Box",
@@ -19424,9 +19424,9 @@
       "zip": "",
       "lat": 34.3480448,
       "lon": -112.1588188,
-      "site_name": "Spring Valley Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Spring Valley Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Village of Oak Creek Fire Station 3 Drop Box",
@@ -19446,9 +19446,9 @@
       "zip": "",
       "lat": 34.7797243,
       "lon": -111.7648371,
-      "site_name": "Village of Oak Creek Fire Station 3 Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Village of Oak Creek Fire Station 3",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Yarnell Justice Court Drop Box",
@@ -19468,9 +19468,9 @@
       "zip": "",
       "lat": 34.2204639,
       "lon": -112.7468052,
-      "site_name": "Yarnell Justice Court Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Yarnell Justice Court",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Yavapai-Apache Nation Community Center Drop Box",
@@ -19490,9 +19490,9 @@
       "zip": "86322",
       "lat": 34.6200708,
       "lon": -111.8931331,
-      "site_name": "Yavapai-Apache Nation Community Center Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Yavapai-Apache Nation Community Center",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Prescott Valley Early Voting",
@@ -19512,9 +19512,9 @@
       "zip": "",
       "lat": 34.5860845,
       "lon": -112.3381912,
-      "site_name": "Prescott Valley Early Voting",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Prescott Valley",
+      "label_en": "Early Voting",
+      "label_es": "Votación anticipada"
     },
     {
       "name": "Yavapai County Admin Building Prescott — Early Voting",
@@ -20172,9 +20172,9 @@
       "zip": "85367",
       "lat": 32.6678777,
       "lon": -114.4073373,
-      "site_name": "Foothills Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Foothills Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Previous BOS Auditorium Drop Box",
@@ -20194,9 +20194,9 @@
       "zip": "85364",
       "lat": 32.7241635,
       "lon": -114.6181303,
-      "site_name": "Previous BOS Auditorium Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Previous BOS Auditorium",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "San Luis Library Drop Box",
@@ -20216,9 +20216,9 @@
       "zip": "85349",
       "lat": 32.4960832,
       "lon": -114.7695362,
-      "site_name": "San Luis Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "San Luis Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "San Luis Medical Mall Drop Box",
@@ -20238,9 +20238,9 @@
       "zip": "85349",
       "lat": 32.4791609,
       "lon": -114.7014367,
-      "site_name": "San Luis Medical Mall Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "San Luis Medical Mall",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Somerton Library Drop Box",
@@ -20260,9 +20260,9 @@
       "zip": "85350",
       "lat": 32.6030049,
       "lon": -114.7109796,
-      "site_name": "Somerton Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Somerton Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Wellton Library Drop Box",
@@ -20282,9 +20282,9 @@
       "zip": "85356",
       "lat": 32.6717707,
       "lon": -114.1445785,
-      "site_name": "Wellton Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Wellton Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Yuma County Recorder's Office Drop Box",
@@ -20304,9 +20304,9 @@
       "zip": "85364",
       "lat": 32.7227,
       "lon": -114.6179638,
-      "site_name": "Yuma County Recorder's Office Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Yuma County Recorder's Office",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Yuma Main Library Drop Box",
@@ -20326,9 +20326,9 @@
       "zip": "85364",
       "lat": 32.6785455,
       "lon": -114.6458945,
-      "site_name": "Yuma Main Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Yuma Main Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "AWC Schoening Conference Center — Election Day",
@@ -21316,9 +21316,9 @@
       "zip": "",
       "lat": 32.3727184,
       "lon": -112.8618828,
-      "site_name": "Salazar-Ajo Library Drop Box",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Salazar-Ajo Library",
+      "label_en": "Drop Box",
+      "label_es": "Buzón de boletas"
     },
     {
       "name": "Maricopa Community Center — Election Day",
@@ -21783,5 +21783,5 @@
       "label_es": "Día de la elección"
     }
   ],
-  "last_checked": "2026-10-17T12:49:25-07:00"
+  "last_checked": "2026-10-17T15:12:37-05:00"
 }
