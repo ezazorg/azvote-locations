@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T11:05:47-07:00",
+  "generated_at": "2026-10-17T11:14:42-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -12083,8 +12083,8 @@
       "city": "",
       "state": "AZ",
       "zip": "85634",
-      "lat": 31.7656362,
-      "lon": -112.1051272
+      "lat": 31.9115331,
+      "lon": -111.88670034
     },
     {
       "name": "Church of the Apostles — Election Day",
@@ -12843,8 +12843,8 @@
       "city": "",
       "state": "AZ",
       "zip": "85746",
-      "lat": 32.1778128,
-      "lon": -111.0038322
+      "lat": 32.174856,
+      "lon": -111.061291
     },
     {
       "name": "MurphyWilmot Library — Election Day",
@@ -13185,8 +13185,8 @@
       "city": "",
       "state": "AZ",
       "zip": "85735",
-      "lat": 32.1778826,
-      "lon": -111.0056096
+      "lat": 32.07937,
+      "lon": -111.30996
     },
     {
       "name": "SUSD - Sopori Elementary School — Election Day",
@@ -13451,8 +13451,8 @@
       "city": "",
       "state": "AZ",
       "zip": "85735",
-      "lat": 32.1778091,
-      "lon": -111.0025494
+      "lat": 32.08216611,
+      "lon": -111.29726965
     },
     {
       "name": "Sheraton Tucson Hotel — Election Day",
@@ -13736,8 +13736,8 @@
       "city": "",
       "state": "AZ",
       "zip": "85735",
-      "lat": 32.140465,
-      "lon": -111.1519109
+      "lat": 32.16606,
+      "lon": -111.086727
     },
     {
       "name": "VUSD - Cienega High School — Election Day",
@@ -18813,5 +18813,5 @@
       "lon": -114.4139857
     }
   ],
-  "last_checked": "2026-10-17T11:05:47-07:00"
+  "last_checked": "2026-10-17T11:14:42-07:00"
 }
