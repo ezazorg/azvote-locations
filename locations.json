@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T13:28:59-07:00",
+  "generated_at": "2026-10-17T13:33:23-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -2132,9 +2132,9 @@
       "zip": "",
       "lat": 36.1333623,
       "lon": -111.2397595,
-      "site_name": "San Juan Southern Paiute TCPS (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "San Juan Southern Paiute TCPS",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Sedona City Hall — Early Voting",
@@ -2198,9 +2198,9 @@
       "zip": "",
       "lat": 36.1193053,
       "lon": -111.229677,
-      "site_name": "Tonalea Sinclair Gas Station (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Tonalea Sinclair Gas Station",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Lechee Chapter House (Mobile EV) — Early Voting",
@@ -2220,9 +2220,9 @@
       "zip": "",
       "lat": 36.8575715,
       "lon": -111.4454517,
-      "site_name": "Lechee Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Lechee Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Coppermine Chapter House (Mobile EV) — Early Voting",
@@ -2242,9 +2242,9 @@
       "zip": "",
       "lat": 36.6195782,
       "lon": -111.4534751,
-      "site_name": "Coppermine Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Coppermine Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Inscription House Chapter House (Mobile EV) — Early Voting",
@@ -2264,9 +2264,9 @@
       "zip": "",
       "lat": 36.650766,
       "lon": -110.7616395,
-      "site_name": "Inscription House Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Inscription House Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Tonalea Chapter House (Mobile EV) — Early Voting",
@@ -2286,9 +2286,9 @@
       "zip": "",
       "lat": 36.3251705,
       "lon": -110.9517972,
-      "site_name": "Tonalea Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Tonalea Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Kaibeto Chapter House (Mobile EV) — Early Voting",
@@ -2308,9 +2308,9 @@
       "zip": "",
       "lat": 36.6031874,
       "lon": -111.0746601,
-      "site_name": "Kaibeto Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Kaibeto Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Cameron Chapter House (Mobile EV) — Early Voting",
@@ -2330,9 +2330,9 @@
       "zip": "",
       "lat": 35.877203,
       "lon": -111.4119409,
-      "site_name": "Cameron Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Cameron Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Upper Moenkopi Admin Office (Mobile EV) — Early Voting",
@@ -2352,9 +2352,9 @@
       "zip": "",
       "lat": 36.1112182,
       "lon": -111.2225133,
-      "site_name": "Upper Moenkopi Admin Office (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Upper Moenkopi Admin Office",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Inscription House Marketplace (Mobile EV) — Early Voting",
@@ -2374,9 +2374,9 @@
       "zip": "",
       "lat": 36.6536733,
       "lon": -110.7593091,
-      "site_name": "Inscription House Marketplace (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Inscription House Marketplace",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Tolani Lake Chapter House (Mobile EV) — Early Voting",
@@ -2396,9 +2396,9 @@
       "zip": "",
       "lat": 35.4334163,
       "lon": -110.8464212,
-      "site_name": "Tolani Lake Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Tolani Lake Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Coalmine Chapter House (Mobile EV) — Early Voting",
@@ -2418,9 +2418,9 @@
       "zip": "",
       "lat": 35.9938831,
       "lon": -111.0329155,
-      "site_name": "Coalmine Chapter House (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Coalmine Chapter House",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Blue Canyon Grill (West Parking Lot) (Mobile EV) — Early Voting",
@@ -2440,9 +2440,9 @@
       "zip": "",
       "lat": 35.8740383,
       "lon": -111.411918,
-      "site_name": "Blue Canyon Grill (West Parking Lot) (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Blue Canyon Grill (West Parking Lot)",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Kaibeto Marketplace (South Parking Lot) (Mobile EV) — Early Voting",
@@ -2462,9 +2462,9 @@
       "zip": "",
       "lat": 35.1773886,
       "lon": -111.6547227,
-      "site_name": "Kaibeto Marketplace (South Parking Lot) (Mobile EV)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Kaibeto Marketplace (South Parking Lot)",
+      "label_en": "Mobile Early Voting",
+      "label_es": "Votación anticipada móvil"
     },
     {
       "name": "Aquaplex — Election Day",
@@ -10976,9 +10976,9 @@
       "zip": "86401",
       "lat": 35.1906322,
       "lon": -114.065008,
-      "site_name": "Mohave County Administration Building Drop-Off",
-      "label_en": "Drop Box",
-      "label_es": "Buzón de boletas"
+      "site_name": "Mohave County Administration Building",
+      "label_en": "Ballot Drop-Off",
+      "label_es": "Entrega de boletas"
     },
     {
       "name": "Mohave County Library - Bullhead City — Early Voting",
@@ -18667,8 +18667,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Santa Cruz",
-      "description": "Opens: Oct 7, 2026 | Closes: Oct 30, 2026 | Voting system: Vote anywhere (vote centers) | County: Santa Cruz | Type: Early Voting | Hours: Monday-Friday, Oct 7–29: 8:00AM–5:00PM; Fri Oct 30 (last day): 8:00AM–7:00PM | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Source: https://www.santacruzcountyaz.gov/287/Recorder | Status: published_final",
-      "hours": "Monday-Friday, Oct 7–29: 8:00AM–5:00PM; Fri Oct 30 (last day): 8:00AM–7:00PM",
+      "description": "Opens: Oct 7, 2026 | Closes: Oct 30, 2026 | Voting system: Vote anywhere (vote centers) | County: Santa Cruz | Type: Early Voting | Hours: Monday-Friday 8:00AM–5:00PM; Fri Oct 30 (last day): 8:00AM–7:00PM | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Source: https://www.santacruzcountyaz.gov/287/Recorder | Status: published_final",
+      "hours": "Monday-Friday 8:00AM–5:00PM; Fri Oct 30 (last day): 8:00AM–7:00PM",
       "address": "2150 N. Congress Dr., Suite 114, Nogales, AZ 85621",
       "street": "2150 N. Congress Dr., Suite 114",
       "city": "Nogales",
@@ -18698,9 +18698,9 @@
       "zip": "85648",
       "lat": 31.4699569,
       "lon": -110.9920232,
-      "site_name": "Rio Rico Early Voting (Sat Oct 17)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Rio Rico",
+      "label_en": "Early Voting (Sat Oct 17)",
+      "label_es": "Votación anticipada (sáb. 17 de oct.)"
     },
     {
       "name": "Tubac Early Voting (Sat Oct 17)",
@@ -18720,9 +18720,9 @@
       "zip": "85646",
       "lat": 31.616093,
       "lon": -111.0438277,
-      "site_name": "Tubac Early Voting (Sat Oct 17)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Tubac",
+      "label_en": "Early Voting (Sat Oct 17)",
+      "label_es": "Votación anticipada (sáb. 17 de oct.)"
     },
     {
       "name": "Patagonia Early Voting (Sat Oct 24)",
@@ -18742,9 +18742,9 @@
       "zip": "85624",
       "lat": 31.5388996,
       "lon": -110.753627,
-      "site_name": "Patagonia Early Voting (Sat Oct 24)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Patagonia",
+      "label_en": "Early Voting (Sat Oct 24)",
+      "label_es": "Votación anticipada (sáb. 24 de oct.)"
     },
     {
       "name": "Sonoita Early Voting (Sat Oct 24)",
@@ -18764,9 +18764,9 @@
       "zip": "85637",
       "lat": 31.6740811,
       "lon": -110.6557237,
-      "site_name": "Sonoita Early Voting (Sat Oct 24)",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Sonoita",
+      "label_en": "Early Voting (Sat Oct 24)",
+      "label_es": "Votación anticipada (sáb. 24 de oct.)"
     },
     {
       "name": "Santa Cruz County Emergency Voting",
@@ -18786,9 +18786,9 @@
       "zip": "85621",
       "lat": 31.3714446,
       "lon": -110.9404658,
-      "site_name": "Santa Cruz County Emergency Voting",
-      "label_en": "",
-      "label_es": ""
+      "site_name": "Santa Cruz County",
+      "label_en": "Emergency Voting",
+      "label_es": "Votación de emergencia"
     },
     {
       "name": "VC1 Wade Carpenter School — Election Day",
@@ -21536,9 +21536,9 @@
       "zip": "",
       "lat": 36.307074,
       "lon": -111.4640192,
-      "site_name": "Bodaway Chapter House (Mobile EV, Thu Oct 8)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Bodaway Chapter House",
+      "label_en": "Mobile Early Voting (Thu Oct 8)",
+      "label_es": "Votación anticipada móvil (jue. 8 de oct.)"
     },
     {
       "name": "Bodaway Chapter House (Mobile EV, Mon Oct 19) — Early Voting",
@@ -21558,9 +21558,9 @@
       "zip": "",
       "lat": 36.307074,
       "lon": -111.4640192,
-      "site_name": "Bodaway Chapter House (Mobile EV, Mon Oct 19)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Bodaway Chapter House",
+      "label_en": "Mobile Early Voting (Mon Oct 19)",
+      "label_es": "Votación anticipada móvil (lun. 19 de oct.)"
     },
     {
       "name": "Leupp Chapter House (Mobile EV, Fri Oct 16) — Early Voting",
@@ -21580,9 +21580,9 @@
       "zip": "",
       "lat": 35.2941614,
       "lon": -111.005134,
-      "site_name": "Leupp Chapter House (Mobile EV, Fri Oct 16)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Leupp Chapter House",
+      "label_en": "Mobile Early Voting (Fri Oct 16)",
+      "label_es": "Votación anticipada móvil (vie. 16 de oct.)"
     },
     {
       "name": "Leupp Chapter House (Mobile EV, Fri Oct 30) — Early Voting",
@@ -21602,9 +21602,9 @@
       "zip": "",
       "lat": 35.2941614,
       "lon": -111.005134,
-      "site_name": "Leupp Chapter House (Mobile EV, Fri Oct 30)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Leupp Chapter House",
+      "label_en": "Mobile Early Voting (Fri Oct 30)",
+      "label_es": "Votación anticipada móvil (vie. 30 de oct.)"
     },
     {
       "name": "Robert Olivar Sr. Learning Center — Election Day",
@@ -21690,9 +21690,9 @@
       "zip": "85928",
       "lat": 34.3989625,
       "lon": -110.5510821,
-      "site_name": "Heber Mogollon Complex (Sat Oct 17)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Heber Mogollon Complex",
+      "label_en": "Early Voting (Sat Oct 17)",
+      "label_es": "Votación anticipada (sáb. 17 de oct.)"
     },
     {
       "name": "Heber Mogollon Complex (Thu Oct 22) — Early Voting",
@@ -21712,9 +21712,9 @@
       "zip": "85928",
       "lat": 34.3989625,
       "lon": -110.5510821,
-      "site_name": "Heber Mogollon Complex (Thu Oct 22)",
-      "label_en": "Early Voting",
-      "label_es": "Votación anticipada"
+      "site_name": "Heber Mogollon Complex",
+      "label_en": "Early Voting (Thu Oct 22)",
+      "label_es": "Votación anticipada (jue. 22 de oct.)"
     },
     {
       "name": "Former Board of Supervisors Auditorium — Early Voting",
@@ -21783,5 +21783,5 @@
       "label_es": "Día de la elección"
     }
   ],
-  "last_checked": "2026-10-17T13:28:59-07:00"
+  "last_checked": "2026-10-17T13:33:23-07:00"
 }
