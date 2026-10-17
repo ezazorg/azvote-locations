@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T12:34:06-07:00",
+  "generated_at": "2026-10-17T12:46:23-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -664,8 +664,8 @@
       "city": "Red Mesa",
       "state": "AZ",
       "zip": "",
-      "lat": 36.9590442,
-      "lon": -109.3290456
+      "lat": 36.962187,
+      "lon": -109.382563
     },
     {
       "name": "Red Valley Chapter House — Election Day",
@@ -892,8 +892,8 @@
       "city": "Vernon",
       "state": "AZ",
       "zip": "",
-      "lat": 34.2573214,
-      "lon": -109.7164268
+      "lat": 34.254687,
+      "lon": -109.693438
     },
     {
       "name": "Wheatfields - Church of Jesus Christ of Latter Day Saints — Election Day",
@@ -3571,8 +3571,8 @@
       "city": "Bylas",
       "state": "AZ",
       "zip": "",
-      "lat": 33.1323633,
-      "lon": -110.1203005
+      "lat": 33.12152,
+      "lon": -110.1096
     },
     {
       "name": "AG Bldg Fair Grounds — Election Day",
@@ -11525,8 +11525,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Drive Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Drive Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "1305 W Naranja Dr, Oro Valley, AZ 85737",
       "street": "1305 W Naranja Dr",
       "city": "Oro Valley",
@@ -11544,8 +11544,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "7474 S Camino De Oeste, Tucson, AZ 85757",
       "street": "7474 S Camino De Oeste",
       "city": "Tucson",
@@ -11563,8 +11563,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up; in front of Health Dept | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up; in front of Health Dept | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "6920 E Broadway Blvd, Tucson, AZ 85710",
       "street": "6920 E Broadway Blvd",
       "city": "Tucson",
@@ -11582,8 +11582,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up; courtyard facing Recorder | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up; courtyard facing Recorder | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "240 N Stone Ave, Tucson, AZ 85701",
       "street": "240 N Stone Ave",
       "city": "Tucson",
@@ -11601,8 +11601,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Drive Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Drive Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "375 W Sahuarita Center Way, Sahuarita, AZ 85629",
       "street": "375 W Sahuarita Center Way",
       "city": "Sahuarita",
@@ -11620,8 +11620,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Drive Up; utility driveway | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Drive Up; utility driveway | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "200 N Stone Ave, Tucson, AZ 85701",
       "street": "200 N Stone Ave",
       "city": "Tucson",
@@ -11639,15 +11639,15 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: See DropBoxes.aspx | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
-      "hours": "See DropBoxes.aspx",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "1 Main St, Sells, AZ",
       "street": "1 Main St",
       "city": "Sells",
       "state": "AZ",
       "zip": "",
-      "lat": 31.913549,
-      "lon": -111.8759103
+      "lat": 31.91488,
+      "lon": -111.888114
     },
     {
       "name": "Pima County Recorder Main Office — Early Voting",
@@ -18063,11 +18063,11 @@
       "county": "Pima",
       "description": "Opens: Oct 26, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Early Voting | Hours: Mon–Fri 8am–5pm; Fri Oct 30 8am–7pm | Dates: 2026-10-26 to 2026-10-30 (Mon–Fri) | Election: 2026 General Election | Notes: County site name: Valencia Library. Services: Ballot drop-off, early voting, emergency voting. Ballot drop-off during open hours. Emergency voting here Sat Oct 31 9am–3pm & Mon Nov 2 9am–3pm. Hours per Pima County Voter Information app (Arizona time) | Source: https://experience.arcgis.com/experience/21445fb10f884caea0aac1ecba764599 (https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_EVS_Locations/FeatureServer/0) | Status: published_final",
       "hours": "Mon–Fri 8am–5pm; Fri Oct 30 8am–7pm",
-      "address": "202 W Valencia Rd, Tucson, AZ",
+      "address": "202 W Valencia Rd, Tucson, AZ 85706",
       "street": "202 W Valencia Rd",
       "city": "Tucson",
       "state": "AZ",
-      "zip": "",
+      "zip": "85706",
       "lat": 32.1346285,
       "lon": -110.9725237
     },
@@ -18082,11 +18082,11 @@
       "county": "Pima",
       "description": "Opens: Oct 31, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Emergency Voting | Hours: Sat Oct 31 9am–3pm; Mon Nov 2 9am–3pm | Dates: 2026-10-31, 2026-11-02 | Election: 2026 General Election | Notes: County site name: Valencia Library. Emergency voting (Sat Oct 31 & Mon Nov 2; closed Sun Nov 1). Ballot drop-off during open hours. Per Pima County Voter Information app | Source: https://experience.arcgis.com/experience/21445fb10f884caea0aac1ecba764599 (https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_EVS_Locations/FeatureServer/0) | Status: published_final",
       "hours": "Sat Oct 31 9am–3pm; Mon Nov 2 9am–3pm",
-      "address": "202 W Valencia Rd, Tucson, AZ",
+      "address": "202 W Valencia Rd, Tucson, AZ 85706",
       "street": "202 W Valencia Rd",
       "city": "Tucson",
       "state": "AZ",
-      "zip": "",
+      "zip": "85706",
       "lat": 32.1346285,
       "lon": -110.9725237
     },
@@ -18396,15 +18396,15 @@
     },
     {
       "name": "Salazar-Ajo Library Drop Box",
-      "opens": "",
-      "opens_iso": "",
-      "closes": "",
-      "closes_iso": "",
+      "opens": "Oct 7, 2026",
+      "opens_iso": "2026-10-07",
+      "closes": "Nov 3, 2026",
+      "closes_iso": "2026-11-03",
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Pima",
-      "description": "Opens: not listed by county | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24-hour drop box; days & hours not listed by county — check county site | Dates: not listed by county | Election: 2026 General Election | Notes: Walk Up; In front of the community bulletin board next to the library. | Source: https://experience.arcgis.com/experience/21445fb10f884caea0aac1ecba764599 (https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Ballot_Drop_Boxes/FeatureServer/0) | Status: published_final",
-      "hours": "24-hour drop box; days & hours not listed by county — check county site",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 8AM through 2026-11-03 7PM | Election: 2026 General Election | Notes: Walk Up; In front of the community bulletin board next to the library. | Source: https://www.recorder.pima.gov/DropBoxes.aspx | Status: published_final",
+      "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
       "address": "15 Ajo Plaza #179, Ajo, AZ",
       "street": "15 Ajo Plaza #179",
       "city": "Ajo",
@@ -18481,16 +18481,16 @@
       "county": "Pima",
       "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED; Room: Recreation Center | Source: https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_Vote_Centers/FeatureServer/0/query?where=ELECTION%3D%272026+General%27&outFields=*&f=json | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "12949 N Sabino Canyon Park, Mt Lemmon, AZ",
+      "address": "12949 N Sabino Canyon Park, Mt Lemmon, AZ 85619",
       "street": "12949 N Sabino Canyon Park",
       "city": "Mt Lemmon",
       "state": "AZ",
-      "zip": "",
+      "zip": "85619",
       "lat": 32.4449331,
       "lon": -110.76067401
     },
     {
-      "name": "San Xavier District Center — Election Day",
+      "name": "San Xavier District — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -18498,7 +18498,7 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Election Day",
       "county": "Pima",
-      "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED; County name: San Xavier District | Source: https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_Vote_Centers/FeatureServer/0/query?where=ELECTION%3D%272026+General%27&outFields=*&f=json | Status: published_final",
+      "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED; Room: San Xavier District Center | Source: https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_Vote_Centers/FeatureServer/0/query?where=ELECTION%3D%272026+General%27&outFields=*&f=json | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
       "address": "2018 W San Xavier Road, Tucson, AZ 85746",
       "street": "2018 W San Xavier Road",
@@ -18509,7 +18509,7 @@
       "lon": -111.00980455
     },
     {
-      "name": "Gu Achi District - Santa Rosa Multipurpose Building — Election Day",
+      "name": "Gu Achi District — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -18517,7 +18517,7 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Election Day",
       "county": "Pima",
-      "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED | Source: https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_Vote_Centers/FeatureServer/0/query?where=ELECTION%3D%272026+General%27&outFields=*&f=json | Status: published_final",
+      "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Nov 3 2026 General vote center; early ballot drop-off on ED; Room: Santa Rosa Multipurpose Building | Source: https://services2.arcgis.com/UTBp78iglGpbqp1B/arcgis/rest/services/Primary_2024_Vote_Centers/FeatureServer/0/query?where=ELECTION%3D%272026+General%27&outFields=*&f=json | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
       "address": "Santa Rosa Community, Sells, AZ 85634",
       "street": "Santa Rosa Community",
@@ -18676,8 +18676,8 @@
       "city": "Bylas",
       "state": "AZ",
       "zip": "",
-      "lat": 33.1323633,
-      "lon": -110.1203005
+      "lat": 33.12152,
+      "lon": -110.1096
     },
     {
       "name": "San Carlos Housing Authority — Election Day",
@@ -18764,8 +18764,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Yuma",
-      "description": "Opens: Oct 7, 2026 | Closes: Oct 30, 2026 | Voting system: Vote anywhere (vote centers) | County: Yuma | Type: Early Voting | Hours: Monday-Friday 8:00AM–5:00PM; Fri Oct 30 until 7:00PM | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: County: in-person early voting Mon–Fri 8 a.m.–5 p.m.; City of Yuma release: extended to 7 p.m. Fri Oct 30 (https://pubt.io/view/C44B463B0419A130E8376CD327AB1524FBAA3184) | Source: https://www.yumacountyaz.gov/Home/Components/News/News/6316/27 | Status: published_final",
-      "hours": "Monday-Friday 8:00AM–5:00PM; Fri Oct 30 until 7:00PM",
+      "description": "Opens: Oct 7, 2026 | Closes: Oct 30, 2026 | Voting system: Vote anywhere (vote centers) | County: Yuma | Type: Early Voting | Hours: Monday-Friday 8:00AM–5:00PM | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: County: in-person early voting Mon–Fri 8 a.m.–5 p.m., Oct 7–30. (A City of Yuma release says Fri Oct 30 runs to 7 p.m.; the county does not list that.) | Source: https://www.yumacountyaz.gov/Home/Components/News/News/6316/27 | Status: published_final",
+      "hours": "Monday-Friday 8:00AM–5:00PM",
       "address": "198 S. Main Street, Yuma, AZ 85364",
       "street": "198 S. Main Street",
       "city": "Yuma",
@@ -18813,5 +18813,5 @@
       "lon": -114.4139857
     }
   ],
-  "last_checked": "2026-10-17T12:34:06-07:00"
+  "last_checked": "2026-10-17T12:46:23-07:00"
 }
