@@ -11802,25 +11802,6 @@
       "lon": -111.8759103
     },
     {
-      "name": "Pima County Recorder Eastside Office — Early Voting",
-      "opens": "Oct 7, 2026",
-      "opens_iso": "2026-10-07",
-      "closes": "Oct 30, 2026",
-      "closes_iso": "2026-10-30",
-      "voting_system": "Vote anywhere (vote centers)",
-      "type": "Early Voting",
-      "county": "Pima",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Early Voting | Hours: See recorder.pima.gov | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Source: https://www.recorder.pima.gov/EarlyVotingSites.aspx | Status: published_final",
-      "hours": "See recorder.pima.gov",
-      "address": "6920 E Broadway Blvd Suite D, Tucson, AZ 85710",
-      "street": "6920 E Broadway Blvd Suite D",
-      "city": "Tucson",
-      "state": "AZ",
-      "zip": "85710",
-      "lat": 32.2209812,
-      "lon": -110.8447559
-    },
-    {
       "name": "Pima County Recorder Main Office — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
