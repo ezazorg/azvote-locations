@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T12:33:50-07:00",
+  "generated_at": "2026-10-17T12:34:06-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -12790,7 +12790,7 @@
       "lon": -110.8395016
     },
     {
-      "name": "Most HolyTrinity Parish — Election Day",
+      "name": "Most Holy Trinity Parish — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -12847,7 +12847,7 @@
       "lon": -111.061291
     },
     {
-      "name": "MurphyWilmot Library — Election Day",
+      "name": "Murphy Wilmot Library — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -13094,7 +13094,7 @@
       "lon": -110.9425321
     },
     {
-      "name": "Ramada byWyndham — Election Day",
+      "name": "Ramada by Wyndham — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -13474,7 +13474,7 @@
       "lon": -110.8829984
     },
     {
-      "name": "Sierrita Mining and Ranching Co. CommunityBuilding — Election Day",
+      "name": "Sierrita Mining and Ranching Co. Community Building — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -18813,5 +18813,5 @@
       "lon": -114.4139857
     }
   ],
-  "last_checked": "2026-10-17T12:33:50-07:00"
+  "last_checked": "2026-10-17T12:34:06-07:00"
 }
