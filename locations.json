@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T18:22:12-07:00",
+  "generated_at": "2026-10-18T07:19:08-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -12415,8 +12415,8 @@
       "city": "Oatman",
       "state": "AZ",
       "zip": "86438",
-      "lat": 35.0270144,
-      "lon": -114.3843024,
+      "lat": 34.8689712,
+      "lon": -114.1487306,
       "site_name": "Yucca Fire District Station",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
@@ -22773,5 +22773,5 @@
       "hours_es": ""
     }
   ],
-  "last_checked": "2026-10-17T18:22:12-07:00"
+  "last_checked": "2026-10-18T07:19:08-07:00"
 }
