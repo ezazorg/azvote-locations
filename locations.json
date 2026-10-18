@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-17T17:33:50-07:00",
+  "generated_at": "2026-10-17T18:22:12-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -2461,7 +2461,7 @@
       "site_name": "Upper Moenkopi Admin Office",
       "label_en": "Mobile Early Voting",
       "label_es": "Votación anticipada móvil",
-      "hours_es": "9:00 a. m.–3:00 p. m. hora local (según la fecha)"
+      "hours_es": "9:00 a. m.–3:00 p. m. hora local (hora de Arizona; según la fecha)"
     },
     {
       "name": "Inscription House Marketplace (Mobile EV) — Early Voting",
@@ -22773,5 +22773,5 @@
       "hours_es": ""
     }
   ],
-  "last_checked": "2026-10-17T17:33:50-07:00"
+  "last_checked": "2026-10-17T18:22:12-07:00"
 }
