@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-21T15:03:22-07:00",
+  "generated_at": "2026-10-21T15:08:40-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -22783,11 +22783,11 @@
       "county": "Pima",
       "description": "Opens: Oct 7, 2026 | Closes: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Pima | Type: Drop Box | Hours: 24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3 | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Next to the Bank of America ATM (southeast corner of the Student Union) | Source: Pima County Recorder Ballot Drop Boxes map (ArcGIS layer Ballot_Drop_Boxes) | Status: published_final",
       "hours": "24 hours a day, seven days a week, from 8 a.m. Wed Oct 7 until 7 p.m. Election Day, Tue Nov 3",
-      "address": "1303 E University Blvd, Tucson, AZ 85719",
+      "address": "1303 E University Blvd, Tucson, AZ",
       "street": "1303 E University Blvd",
       "city": "Tucson",
       "state": "AZ",
-      "zip": "85719",
+      "zip": "",
       "lat": 32.23236854548246,
       "lon": -110.95148397867764,
       "site_name": "University of Arizona - Student Union",
@@ -22796,5 +22796,5 @@
       "hours_es": ""
     }
   ],
-  "last_checked": "2026-10-21T15:03:22-07:00"
+  "last_checked": "2026-10-21T15:08:40-07:00"
 }
