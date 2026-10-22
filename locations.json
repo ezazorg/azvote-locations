@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-21T15:08:40-07:00",
+  "generated_at": "2026-10-21T17:07:52-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -22788,13 +22788,13 @@
       "city": "Tucson",
       "state": "AZ",
       "zip": "",
-      "lat": 32.23236854548246,
-      "lon": -110.95148397867764,
+      "lat": 32.23242584397384,
+      "lon": -110.95135828062418,
       "site_name": "University of Arizona - Student Union",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
       "hours_es": ""
     }
   ],
-  "last_checked": "2026-10-21T15:08:40-07:00"
+  "last_checked": "2026-10-21T17:07:52-07:00"
 }
