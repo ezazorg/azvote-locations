@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-28T09:03:30-07:00",
+  "generated_at": "2026-10-28T11:13:34-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -11641,7 +11641,7 @@
       "hours_es": ""
     },
     {
-      "name": "Christ Chape — Election Day",
+      "name": "Christ Chapel — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -11649,7 +11649,7 @@
       "voting_system": "Precinct voting",
       "type": "Election Day",
       "county": "Mohave",
-      "description": "Opens: Nov 3, 2026 | Voting system: Precinct voting | County: Mohave | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Precinct #220 – Lake Havasu South. Multi-site precinct: voters registered in Precinct #220 – Lake Havasu South may choose any of this precinct's listed poll sites. Site name as published on county page (Christ Chape) | Source: https://www.mohave.gov/departments/recorder/voter-registration/precincts-and-polling-locations/ | Status: published_final",
+      "description": "Opens: Nov 3, 2026 | Voting system: Precinct voting | County: Mohave | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Precinct #220 – Lake Havasu South. Multi-site precinct: voters registered in Precinct #220 – Lake Havasu South may choose any of this precinct's listed poll sites. | Source: https://www.mohave.gov/departments/recorder/voter-registration/precincts-and-polling-locations/ | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
       "address": "3450 Chemehuevi Blvd, Lake Havasu City, AZ 86406",
       "street": "3450 Chemehuevi Blvd",
@@ -11658,7 +11658,7 @@
       "zip": "86406",
       "lat": 34.4776028,
       "lon": -114.2801464,
-      "site_name": "Christ Chape",
+      "site_name": "Christ Chapel",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
       "hours_es": ""
@@ -12377,7 +12377,7 @@
       "hours_es": ""
     },
     {
-      "name": "Yucca Fire District Station — Election Day",
+      "name": "Golden Valley Fire District Station — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -12394,13 +12394,13 @@
       "zip": "86438",
       "lat": 34.8689712,
       "lon": -114.1487306,
-      "site_name": "Yucca Fire District Station",
+      "site_name": "Golden Valley Fire District Station",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
       "hours_es": ""
     },
     {
-      "name": "Yucca Fire District Station — Election Day",
+      "name": "Oatman Church — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -12410,14 +12410,14 @@
       "county": "Mohave",
       "description": "Opens: Nov 3, 2026 | Voting system: Precinct voting | County: Mohave | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Precinct #206 – Oatman. Assigned precinct poll for Precinct #206 – Oatman. | Source: https://www.mohave.gov/departments/recorder/voter-registration/precincts-and-polling-locations/ | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "12349 S Frontage Rd, Oatman, AZ 86438",
-      "street": "12349 S Frontage Rd",
+      "address": "81 Bell Lane, Oatman, AZ 86433",
+      "street": "81 Bell Lane",
       "city": "Oatman",
       "state": "AZ",
-      "zip": "86438",
-      "lat": 34.8689712,
-      "lon": -114.1487306,
-      "site_name": "Yucca Fire District Station",
+      "zip": "86433",
+      "lat": 35.0260399,
+      "lon": -114.3811603,
+      "site_name": "Oatman Church",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
       "hours_es": ""
@@ -22793,6 +22793,29 @@
       "site_name": "University of Arizona - Student Union",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
+      "hours_es": ""
+    },
+    {
+      "name": "Fire Station #2 — Election Day",
+      "opens": "Nov 3, 2026",
+      "opens_iso": "2026-11-03",
+      "closes": "",
+      "closes_iso": "2026-11-03",
+      "voting_system": "Precinct voting",
+      "type": "Election Day",
+      "county": "Mohave",
+      "description": "Opens: Nov 3, 2026 | Voting system: Precinct voting | County: Mohave | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Precinct #219 – Lake Havasu North. Multi-site precinct: voters registered in Precinct #219 – Lake Havasu North may choose any of this precinct's listed poll sites. | Source: https://www.mohave.gov/departments/recorder/voter-registration/precincts-and-polling-locations/ | Status: published_final",
+      "hours": "6:00 AM – 7:00 PM",
+      "address": "2065 Kiowa Blvd N, Lake Havasu City, AZ 86403",
+      "street": "2065 Kiowa Blvd N",
+      "city": "Lake Havasu City",
+      "state": "AZ",
+      "zip": "86403",
+      "lat": 34.506379434142,
+      "lon": -114.340692512875,
+      "site_name": "Fire Station #2",
+      "label_en": "Election Day",
+      "label_es": "Día de la elección",
       "hours_es": ""
     }
   ],
