@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-28T11:17:21-07:00",
+  "generated_at": "2026-10-28T17:10:24-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -4197,8 +4197,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Graham",
-      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Graham | Type: Early Voting | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Source: https://www.graham.az.gov/299/Early-Voting | Status: published_preliminary",
-      "hours": "Monday-Thursday 7:00AM–6:00PM (Recorder's Office hours, excluding holidays)",
+      "description": "Opens: Oct 7, 2026 | Voting system: Vote anywhere (vote centers) | County: Graham | Type: Early Voting | Hours: Oct 28–29: 7:00 AM–6:00 PM | Oct 30: 8:00 AM–7:00 PM | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: Recorder's Office - 2nd Floor. Last Day to Vote Early in Person - October 30th 8:00 AM - 7:00 PM. | Source: https://www.graham.az.gov/299/Early-Voting | Status: published_final",
+      "hours": "Oct 28–29: 7:00 AM–6:00 PM\nOct 30: 8:00 AM–7:00 PM",
       "address": "921 W. Thatcher Blvd, Safford, AZ 85546",
       "street": "921 W. Thatcher Blvd",
       "city": "Safford",
@@ -4209,7 +4209,7 @@
       "site_name": "Graham County Recorder",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": "lunes a jueves 7:00 a. m.–6:00 p. m. (horario de la Oficina del Registrador, excepto días festivos)"
+      "hours_es": "28–29 de oct.: 7:00 a. m.–6:00 p. m.\n30 de oct.: 8:00 a. m.–7:00 p. m."
     },
     {
       "name": "Bonita Elementary School Drop Box",
