@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-30T15:11:09-07:00",
+  "generated_at": "2026-10-30T15:33:27-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -22839,7 +22839,9 @@
       "site_name": "Coconino County Voter Services, Flagstaff Mall",
       "label_en": "Emergency Voting",
       "label_es": "Votación de emergencia",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Between JCPenney and Planet Fitness",
+      "precinct_ballots": "All Precincts"
     },
     {
       "name": "Coconino County Recorder’s Office — Emergency Voting",
@@ -22862,7 +22864,9 @@
       "site_name": "Coconino County Recorder’s Office",
       "label_en": "Emergency Voting",
       "label_es": "Votación de emergencia",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "",
+      "precinct_ballots": "All Precincts"
     },
     {
       "name": "Alta Edison Native American Outreach Center — Emergency Voting",
@@ -22885,7 +22889,9 @@
       "site_name": "Alta Edison Native American Outreach Center",
       "label_en": "Emergency Voting",
       "label_es": "Votación de emergencia",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Behind the Tuba City Library",
+      "precinct_ballots": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90, & Tuba City 95"
     }
   ],
   "last_checked": "2026-10-30T11:15:16-07:00"
