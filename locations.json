@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-30T09:11:48-07:00",
+  "generated_at": "2026-10-30T11:10:20-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -13284,13 +13284,13 @@
       "county": "Navajo",
       "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Navajo | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Congressional District #2; vote center — any eligible Navajo County voter; from 2026 GE Vote Centers PDF. Hours per CCEC Navajo FAQ (6 a.m.–7 p.m.). Emergency/Act-of-God contingency list explicitly excluded. | Source: https://www.navajocountyaz.gov/DocumentCenter/View/9999/2026-GE-Vote-Centers-by-Congressional-District | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "404 1st Ave, Holbrook, AZ",
-      "street": "404 1st Ave",
+      "address": "440 1st Ave, Holbrook, AZ",
+      "street": "440 1st Ave",
       "city": "Holbrook",
       "state": "AZ",
       "zip": "",
-      "lat": 34.9044353,
-      "lon": -110.16012,
+      "lat": 34.90469868446,
+      "lon": -110.160071113502,
       "site_name": "Holbrook-Machusak Recreation Center (Old APS bldg)",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
@@ -13652,8 +13652,8 @@
       "county": "Navajo",
       "description": "Opens: Nov 3, 2026 | Voting system: Vote anywhere (vote centers) | County: Navajo | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Congressional District #2; vote center — any eligible Navajo County voter; from 2026 GE Vote Centers PDF. Hours per CCEC Navajo FAQ (6 a.m.–7 p.m.). Emergency/Act-of-God contingency list explicitly excluded. | Source: https://www.navajocountyaz.gov/DocumentCenter/View/9999/2026-GE-Vote-Centers-by-Congressional-District | Status: published_final",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "Across from Second Mesa Day School, AZ",
-      "street": "Across from Second Mesa Day School",
+      "address": "¼ mile from Hwy 264 on SR 87, AZ",
+      "street": "¼ mile from Hwy 264 on SR 87",
       "city": "",
       "state": "AZ",
       "zip": "",
@@ -13803,7 +13803,7 @@
       "hours_es": ""
     },
     {
-      "name": "White Cone Chapter \"Multipurpose Bldg.\" — Election Day",
+      "name": "White Cone Chapter or \"Multipurpose Bldg.\" — Election Day",
       "opens": "Nov 3, 2026",
       "opens_iso": "2026-11-03",
       "closes": "",
@@ -13820,7 +13820,7 @@
       "zip": "",
       "lat": 35.4091885,
       "lon": -110.1068404,
-      "site_name": "White Cone Chapter \"Multipurpose Bldg.\"",
+      "site_name": "White Cone Chapter or \"Multipurpose Bldg.\"",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
       "hours_es": ""
