@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-31T09:20:02-07:00",
+  "generated_at": "2026-10-31T09:20:26-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -2626,7 +2626,9 @@
       "precinct_name": "Precinct 41 - Blue Ridge",
       "precinct_name_es": "Precinto 41 - Blue Ridge",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 41 - Blue Ridge",
+      "precinct_es": "Precinto 41 - Blue Ridge"
     },
     {
       "name": "Bodaway Chapter House — Election Day",
@@ -2653,7 +2655,9 @@
       "precinct_name": "Precinct 42 - Bodaway",
       "precinct_name_es": "Precinto 42 - Bodaway",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 42 - Bodaway",
+      "precinct_es": "Precinto 42 - Bodaway"
     },
     {
       "name": "Cameron Chapter House — Election Day",
@@ -2680,7 +2684,9 @@
       "precinct_name": "Precinct 43 - Cameron",
       "precinct_name_es": "Precinto 43 - Cameron",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 43 - Cameron",
+      "precinct_es": "Precinto 43 - Cameron"
     },
     {
       "name": "Christ Lutheran Church — Election Day",
@@ -2707,7 +2713,9 @@
       "precinct_name": "Precincts 82 - Oak Creek, 83 - Sedona",
       "precinct_name_es": "Precintos 82 - Oak Creek, 83 - Sedona",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 82 - Oak Creek, 83 - Sedona",
+      "precinct_es": "Precintos 82 - Oak Creek, 83 - Sedona"
     },
     {
       "name": "Christ's Church of Flagstaff — Election Day",
@@ -2757,7 +2765,9 @@
       "precinct_name": "Precinct 48 - Coalmine",
       "precinct_name_es": "Precinto 48 - Coalmine",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 48 - Coalmine",
+      "precinct_es": "Precinto 48 - Coalmine"
     },
     {
       "name": "Coconino Community College — Election Day",
@@ -2807,7 +2817,9 @@
       "precinct_name": "Precinct 47 - Coppermine",
       "precinct_name_es": "Precinto 47 - Coppermine",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 47 - Coppermine",
+      "precinct_es": "Precinto 47 - Coppermine"
     },
     {
       "name": "East Valley Baptist Church — Election Day",
@@ -2903,7 +2915,9 @@
       "precinct_name": "Precinct 53 - Forest Lakes",
       "precinct_name_es": "Precinto 53 - Forest Lakes",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 53 - Forest Lakes",
+      "precinct_es": "Precinto 53 - Forest Lakes"
     },
     {
       "name": "Fredonia Fire — Election Day",
@@ -2930,7 +2944,9 @@
       "precinct_name": "Precinct 58 - Fredonia",
       "precinct_name_es": "Precinto 58 - Fredonia",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 58 - Fredonia",
+      "precinct_es": "Precinto 58 - Fredonia"
     },
     {
       "name": "Grace Community Church — Election Day",
@@ -2980,7 +2996,9 @@
       "precinct_name": "Precinct 60 - Havasupai",
       "precinct_name_es": "Precinto 60 - Havasupai",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 60 - Havasupai",
+      "precinct_es": "Precinto 60 - Havasupai"
     },
     {
       "name": "Highlands Fire #23 — Election Day",
@@ -3030,7 +3048,9 @@
       "precinct_name": "Precinct 65 - Kaibeto",
       "precinct_name_es": "Precinto 65 - Kaibeto",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 65 - Kaibeto",
+      "precinct_es": "Precinto 65 - Kaibeto"
     },
     {
       "name": "LDS Church Linda Vista — Election Day",
@@ -3080,7 +3100,9 @@
       "precinct_name": "Precinct 67 - LeChee",
       "precinct_name_es": "Precinto 67 - LeChee",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 67 - LeChee",
+      "precinct_es": "Precinto 67 - LeChee"
     },
     {
       "name": "Leupp Church of the Nazarene — Election Day",
@@ -3176,7 +3198,9 @@
       "precinct_name": "Precinct 71 - Navajo Mountain",
       "precinct_name_es": "Precinto 71 - Navajo Mountain",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 71 - Navajo Mountain",
+      "precinct_es": "Precinto 71 - Navajo Mountain"
     },
     {
       "name": "Northern Arizona University Health and Learning Center — Election Day",
@@ -3249,7 +3273,9 @@
       "precinct_name": "Precinct 64 – Kaibab",
       "precinct_name_es": "Precinto 64 – Kaibab",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 64 – Kaibab",
+      "precinct_es": "Precinto 64 – Kaibab"
     },
     {
       "name": "Pinewood Fire Department — Election Day",
@@ -3276,7 +3302,9 @@
       "precinct_name": "Precinct 80 - Pinewood",
       "precinct_name_es": "Precinto 80 - Pinewood",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 80 - Pinewood",
+      "precinct_es": "Precinto 80 - Pinewood"
     },
     {
       "name": "Ponderosa Fire #82 — Election Day",
@@ -3349,7 +3377,9 @@
       "precinct_name": "Precinct 59 - Grand Canyon",
       "precinct_name_es": "Precinto 59 - Grand Canyon",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 59 - Grand Canyon",
+      "precinct_es": "Precinto 59 - Grand Canyon"
     },
     {
       "name": "Summit Fire #31 Cosnino Rd — Election Day",
@@ -3376,7 +3406,9 @@
       "precinct_name": "Precincts 92 - Winona, 57 - Meteor, 89 - Walnut Canyon",
       "precinct_name_es": "Precintos 92 - Winona, 57 - Meteor, 89 - Walnut Canyon",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 92 - Winona, 57 - Meteor, 89 - Walnut Canyon",
+      "precinct_es": "Precintos 92 - Winona, 57 - Meteor, 89 - Walnut Canyon"
     },
     {
       "name": "Tolani Lake Chapter House — Election Day",
@@ -3403,7 +3435,9 @@
       "precinct_name": "Precinct 88 - Tolani Lake",
       "precinct_name_es": "Precinto 88 - Tolani Lake",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 88 - Tolani Lake",
+      "precinct_es": "Precinto 88 - Tolani Lake"
     },
     {
       "name": "Tonalea Chapter House — Election Day",
@@ -3430,7 +3464,9 @@
       "precinct_name": "Precinct 90 - Tonalea",
       "precinct_name_es": "Precinto 90 - Tonalea",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 90 - Tonalea",
+      "precinct_es": "Precinto 90 - Tonalea"
     },
     {
       "name": "Ts'Ah Bii Kin Community Church — Election Day",
@@ -3457,7 +3493,9 @@
       "precinct_name": "Precinct 61 - Inscription House",
       "precinct_name_es": "Precinto 61 - Inscription House",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 61 - Inscription House",
+      "precinct_es": "Precinto 61 - Inscription House"
     },
     {
       "name": "Tuba City High School — Election Day",
@@ -3507,7 +3545,9 @@
       "precinct_name": "Precinct 97 - Tusayan",
       "precinct_name_es": "Precinto 97 - Tusayan",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 97 - Tusayan",
+      "precinct_es": "Precinto 97 - Tusayan"
     },
     {
       "name": "Upper Moenkopi Community Center — Election Day",
@@ -3534,7 +3574,9 @@
       "precinct_name": "Precinct 70 – Moenkopi",
       "precinct_name_es": "Precinto 70 – Moenkopi",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 70 – Moenkopi",
+      "precinct_es": "Precinto 70 – Moenkopi"
     },
     {
       "name": "Canyon Day Assembly of God Church Drop Box",
@@ -3906,7 +3948,9 @@
       "precinct_name": "San Carlos Precinct",
       "precinct_name_es": "Precinto San Carlos",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "San Carlos Precinct",
+      "precinct_es": "Precinto San Carlos"
     },
     {
       "name": "Canyon Day Assembly of God Church — Election Day",
@@ -3933,7 +3977,9 @@
       "precinct_name": "Canyon Day Precinct",
       "precinct_name_es": "Precinto Canyon Day",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Canyon Day Precinct",
+      "precinct_es": "Precinto Canyon Day"
     },
     {
       "name": "Carrizo Assembly of God Church — Election Day",
@@ -3960,7 +4006,9 @@
       "precinct_name": "Carrizo Precinct",
       "precinct_name_es": "Precinto Carrizo",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Carrizo Precinct",
+      "precinct_es": "Precinto Carrizo"
     },
     {
       "name": "Christopher Creek Bible Fellowship Church — Election Day",
@@ -3987,7 +4035,9 @@
       "precinct_name": "Zane Grey Precinct",
       "precinct_name_es": "Precinto Zane Grey",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Zane Grey Precinct",
+      "precinct_es": "Precinto Zane Grey"
     },
     {
       "name": "East Verde Baptist Church — Election Day",
@@ -4014,7 +4064,9 @@
       "precinct_name": "Whispering Pines Precinct",
       "precinct_name_es": "Precinto Whispering Pines",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Whispering Pines Precinct",
+      "precinct_es": "Precinto Whispering Pines"
     },
     {
       "name": "Expedition Church — Election Day",
@@ -4064,7 +4116,9 @@
       "precinct_name": "Pine Strawberry East / Pine Strawberry West Precincts",
       "precinct_name_es": "Precintos Pine Strawberry East / Pine Strawberry West",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Pine Strawberry East / Pine Strawberry West Precincts",
+      "precinct_es": "Precintos Pine Strawberry East / Pine Strawberry West"
     },
     {
       "name": "First Payson Church of the Nazarene — Election Day",
@@ -4114,7 +4168,9 @@
       "precinct_name": "Gisela Precinct",
       "precinct_name_es": "Precinto Gisela",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Gisela Precinct",
+      "precinct_es": "Precinto Gisela"
     },
     {
       "name": "Globe Elks Lodge — Election Day",
@@ -4187,7 +4243,9 @@
       "precinct_name": "Copper Basin Precinct",
       "precinct_name_es": "Precinto Copper Basin",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Copper Basin Precinct",
+      "precinct_es": "Precinto Copper Basin"
     },
     {
       "name": "Miami High School — Election Day",
@@ -4260,7 +4318,9 @@
       "precinct_name": "Young Precinct",
       "precinct_name_es": "Precinto Young",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Young Precinct",
+      "precinct_es": "Precinto Young"
     },
     {
       "name": "Roosevelt Baptist Church — Election Day",
@@ -4287,7 +4347,9 @@
       "precinct_name": "Roosevelt / Sierra Ancha Precincts",
       "precinct_name_es": "Precintos Roosevelt / Sierra Ancha",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Roosevelt / Sierra Ancha Precincts",
+      "precinct_es": "Precintos Roosevelt / Sierra Ancha"
     },
     {
       "name": "Tonto Basin Chamber of Commerce — Election Day",
@@ -4314,7 +4376,9 @@
       "precinct_name": "Tonto Basin Precinct",
       "precinct_name_es": "Precinto Tonto Basin",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Tonto Basin Precinct",
+      "precinct_es": "Precinto Tonto Basin"
     },
     {
       "name": "Graham County Recorder Early Voting",
@@ -4686,7 +4750,9 @@
       "precinct_name": "Precinct 2 – Blue",
       "precinct_name_es": "Precinto 2 – Blue",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 2 – Blue",
+      "precinct_es": "Precinto 2 – Blue"
     },
     {
       "name": "Clifton Train Depot Vote Center — Election Day",
@@ -4782,7 +4848,9 @@
       "precinct_name": "Precinct 1 – Eagle",
       "precinct_name_es": "Precinto 1 – Eagle",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 1 – Eagle",
+      "precinct_es": "Precinto 1 – Eagle"
     },
     {
       "name": "La Paz County Recorder Lobby Drop Box",
@@ -11732,7 +11800,9 @@
       "precinct_name": "Precinct #219 – Lake Havasu North",
       "precinct_name_es": "Precinto #219 – Lake Havasu North",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #219 – Lake Havasu North",
+      "precinct_es": "Precinto #219 – Lake Havasu North"
     },
     {
       "name": "Calvary Baptist Church — Election Day",
@@ -11759,7 +11829,9 @@
       "precinct_name": "Precinct #218 – Kingman East",
       "precinct_name_es": "Precinto #218 – Kingman East",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #218 – Kingman East",
+      "precinct_es": "Precinto #218 – Kingman East"
     },
     {
       "name": "Chloride Town Hall — Election Day",
@@ -11786,7 +11858,9 @@
       "precinct_name": "Precinct #204 – Chloride",
       "precinct_name_es": "Precinto #204 – Chloride",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #204 – Chloride",
+      "precinct_es": "Precinto #204 – Chloride"
     },
     {
       "name": "Christ Chapel — Election Day",
@@ -11813,7 +11887,9 @@
       "precinct_name": "Precinct #220 – Lake Havasu South",
       "precinct_name_es": "Precinto #220 – Lake Havasu South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #220 – Lake Havasu South",
+      "precinct_es": "Precinto #220 – Lake Havasu South"
     },
     {
       "name": "Church of Christ — Election Day",
@@ -11840,7 +11916,9 @@
       "precinct_name": "Precinct #215 – Kingman Central",
       "precinct_name_es": "Precinto #215 – Kingman Central",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #215 – Kingman Central",
+      "precinct_es": "Precinto #215 – Kingman Central"
     },
     {
       "name": "College Park Community Church — Election Day",
@@ -11867,7 +11945,9 @@
       "precinct_name": "Precinct #216 – Kingman North",
       "precinct_name_es": "Precinto #216 – Kingman North",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #216 – Kingman North",
+      "precinct_es": "Precinto #216 – Kingman North"
     },
     {
       "name": "Community Center — Election Day",
@@ -11894,7 +11974,9 @@
       "precinct_name": "Precinct #223 – Moccasin",
       "precinct_name_es": "Precinto #223 – Moccasin",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #223 – Moccasin",
+      "precinct_es": "Precinto #223 – Moccasin"
     },
     {
       "name": "Community Lutheran Church — Election Day",
@@ -11921,7 +12003,9 @@
       "precinct_name": "Precinct #211 – Bullhead City",
       "precinct_name_es": "Precinto #211 – Bullhead City",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #211 – Bullhead City",
+      "precinct_es": "Precinto #211 – Bullhead City"
     },
     {
       "name": "Desert Hills Fire Station — Election Day",
@@ -11948,7 +12032,9 @@
       "precinct_name": "Precinct #207 – Desert Hills",
       "precinct_name_es": "Precinto #207 – Desert Hills",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #207 – Desert Hills",
+      "precinct_es": "Precinto #207 – Desert Hills"
     },
     {
       "name": "Desert Shores Com. Baptist Church — Election Day",
@@ -11975,7 +12061,9 @@
       "precinct_name": "Precinct #211 – Bullhead City",
       "precinct_name_es": "Precinto #211 – Bullhead City",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #211 – Bullhead City",
+      "precinct_es": "Precinto #211 – Bullhead City"
     },
     {
       "name": "Dolan Springs Community Council Bldg. — Election Day",
@@ -12002,7 +12090,9 @@
       "precinct_name": "Precinct #209 – Dolan Springs",
       "precinct_name_es": "Precinto #209 – Dolan Springs",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #209 – Dolan Springs",
+      "precinct_es": "Precinto #209 – Dolan Springs"
     },
     {
       "name": "First Southern Baptist Church of Mohave Valley — Election Day",
@@ -12029,7 +12119,9 @@
       "precinct_name": "Precinct #212 – Mohave Valley",
       "precinct_name_es": "Precinto #212 – Mohave Valley",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #212 – Mohave Valley",
+      "precinct_es": "Precinto #212 – Mohave Valley"
     },
     {
       "name": "Golden Shores Fire Dept. — Election Day",
@@ -12056,7 +12148,9 @@
       "precinct_name": "Precinct #222 – Golden Shores",
       "precinct_name_es": "Precinto #222 – Golden Shores",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #222 – Golden Shores",
+      "precinct_es": "Precinto #222 – Golden Shores"
     },
     {
       "name": "Golden Valley Fire Dist. Training Center — Election Day",
@@ -12083,7 +12177,9 @@
       "precinct_name": "Precinct #210 – Golden Valley",
       "precinct_name_es": "Precinto #210 – Golden Valley",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #210 – Golden Valley",
+      "precinct_es": "Precinto #210 – Golden Valley"
     },
     {
       "name": "Hilltop Foursquare Church — Election Day",
@@ -12110,7 +12206,9 @@
       "precinct_name": "Precinct #218 – Kingman East",
       "precinct_name_es": "Precinto #218 – Kingman East",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #218 – Kingman East",
+      "precinct_es": "Precinto #218 – Kingman East"
     },
     {
       "name": "Hope United Methodist Church — Election Day",
@@ -12137,7 +12235,9 @@
       "precinct_name": "Precinct #211 – Bullhead City",
       "precinct_name_es": "Precinto #211 – Bullhead City",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #211 – Bullhead City",
+      "precinct_es": "Precinto #211 – Bullhead City"
     },
     {
       "name": "Littlefield Unified School Dist.#9 Governing Board Bldg — Election Day",
@@ -12164,7 +12264,9 @@
       "precinct_name": "Precinct #221 – Littlefield",
       "precinct_name_es": "Precinto #221 – Littlefield",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #221 – Littlefield",
+      "precinct_es": "Precinto #221 – Littlefield"
     },
     {
       "name": "Meadview Civic Assoc. Inc. — Election Day",
@@ -12191,7 +12293,9 @@
       "precinct_name": "Precinct #208 – Meadview",
       "precinct_name_es": "Precinto #208 – Meadview",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #208 – Meadview",
+      "precinct_es": "Precinto #208 – Meadview"
     },
     {
       "name": "Mohave Community College Bldg. 500 — Election Day",
@@ -12218,7 +12322,9 @@
       "precinct_name": "Precinct #205 – North Canyon",
       "precinct_name_es": "Precinto #205 – North Canyon",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #205 – North Canyon",
+      "precinct_es": "Precinto #205 – North Canyon"
     },
     {
       "name": "Mohave Valley Fire Dept. Sta. 82 — Election Day",
@@ -12245,7 +12351,9 @@
       "precinct_name": "Precinct #212 – Mohave Valley",
       "precinct_name_es": "Precinto #212 – Mohave Valley",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #212 – Mohave Valley",
+      "precinct_es": "Precinto #212 – Mohave Valley"
     },
     {
       "name": "Mohave Valley United Methodist Church — Election Day",
@@ -12272,7 +12380,9 @@
       "precinct_name": "Precinct #212 – Mohave Valley",
       "precinct_name_es": "Precinto #212 – Mohave Valley",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #212 – Mohave Valley",
+      "precinct_es": "Precinto #212 – Mohave Valley"
     },
     {
       "name": "Mount Olive Lutheran Church — Election Day",
@@ -12299,7 +12409,9 @@
       "precinct_name": "Precinct #220 – Lake Havasu South",
       "precinct_name_es": "Precinto #220 – Lake Havasu South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #220 – Lake Havasu South",
+      "precinct_es": "Precinto #220 – Lake Havasu South"
     },
     {
       "name": "Mountain View Property Owners Assoc — Election Day",
@@ -12326,7 +12438,9 @@
       "precinct_name": "Precinct #219 – Lake Havasu North",
       "precinct_name_es": "Precinto #219 – Lake Havasu North",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #219 – Lake Havasu North",
+      "precinct_es": "Precinto #219 – Lake Havasu North"
     },
     {
       "name": "Music Mountain Bible Chapel — Election Day",
@@ -12353,7 +12467,9 @@
       "precinct_name": "Precinct #214 – Truxton",
       "precinct_name_es": "Precinto #214 – Truxton",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #214 – Truxton",
+      "precinct_es": "Precinto #214 – Truxton"
     },
     {
       "name": "Owens Elementary School — Election Day",
@@ -12380,7 +12496,9 @@
       "precinct_name": "Precinct #201 – Wikieup",
       "precinct_name_es": "Precinto #201 – Wikieup",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #201 – Wikieup",
+      "precinct_es": "Precinto #201 – Wikieup"
     },
     {
       "name": "Peach Springs Elementary School — Election Day",
@@ -12407,7 +12525,9 @@
       "precinct_name": "Precinct #224 – Peach Springs",
       "precinct_name_es": "Precinto #224 – Peach Springs",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #224 – Peach Springs",
+      "precinct_es": "Precinto #224 – Peach Springs"
     },
     {
       "name": "Quality Inn — Election Day",
@@ -12434,7 +12554,9 @@
       "precinct_name": "Precinct #220 – Lake Havasu South",
       "precinct_name_es": "Precinto #220 – Lake Havasu South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #220 – Lake Havasu South",
+      "precinct_es": "Precinto #220 – Lake Havasu South"
     },
     {
       "name": "Spirit Life — Election Day",
@@ -12461,7 +12583,9 @@
       "precinct_name": "Precinct #211 – Bullhead City",
       "precinct_name_es": "Precinto #211 – Bullhead City",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #211 – Bullhead City",
+      "precinct_es": "Precinto #211 – Bullhead City"
     },
     {
       "name": "St. John Evangelical Lutheran Church — Election Day",
@@ -12488,7 +12612,9 @@
       "precinct_name": "Precinct #211 – Bullhead City",
       "precinct_name_es": "Precinto #211 – Bullhead City",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #211 – Bullhead City",
+      "precinct_es": "Precinto #211 – Bullhead City"
     },
     {
       "name": "St. John's United Methodist Church — Election Day",
@@ -12515,7 +12641,9 @@
       "precinct_name": "Precinct #217 – Kingman South",
       "precinct_name_es": "Precinto #217 – Kingman South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #217 – Kingman South",
+      "precinct_es": "Precinto #217 – Kingman South"
     },
     {
       "name": "St. Mary Roman Catholic Parish Center — Election Day",
@@ -12542,7 +12670,9 @@
       "precinct_name": "Precinct #217 – Kingman South",
       "precinct_name_es": "Precinto #217 – Kingman South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #217 – Kingman South",
+      "precinct_es": "Precinto #217 – Kingman South"
     },
     {
       "name": "St. Michael's United Methodist Church — Election Day",
@@ -12569,7 +12699,9 @@
       "precinct_name": "Precinct #220 – Lake Havasu South",
       "precinct_name_es": "Precinto #220 – Lake Havasu South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #220 – Lake Havasu South",
+      "precinct_es": "Precinto #220 – Lake Havasu South"
     },
     {
       "name": "The Church of Jesus Christ of Latter-Day Saints — Election Day",
@@ -12596,7 +12728,9 @@
       "precinct_name": "Precinct #217 – Kingman South",
       "precinct_name_es": "Precinto #217 – Kingman South",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #217 – Kingman South",
+      "precinct_es": "Precinto #217 – Kingman South"
     },
     {
       "name": "Valle Vista Community Church — Election Day",
@@ -12623,7 +12757,9 @@
       "precinct_name": "Precinct #213 – Hackberry",
       "precinct_name_es": "Precinto #213 – Hackberry",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #213 – Hackberry",
+      "precinct_es": "Precinto #213 – Hackberry"
     },
     {
       "name": "White Hills Community Center — Election Day",
@@ -12650,7 +12786,9 @@
       "precinct_name": "Precinct #202 – White Hills",
       "precinct_name_es": "Precinto #202 – White Hills",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #202 – White Hills",
+      "precinct_es": "Precinto #202 – White Hills"
     },
     {
       "name": "Golden Valley Fire District Station — Election Day",
@@ -12677,7 +12815,9 @@
       "precinct_name": "Precinct #203 – Yucca",
       "precinct_name_es": "Precinto #203 – Yucca",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #203 – Yucca",
+      "precinct_es": "Precinto #203 – Yucca"
     },
     {
       "name": "Oatman Church — Election Day",
@@ -12704,7 +12844,9 @@
       "precinct_name": "Precinct #206 – Oatman",
       "precinct_name_es": "Precinto #206 – Oatman",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #206 – Oatman",
+      "precinct_es": "Precinto #206 – Oatman"
     },
     {
       "name": "Navajo County Recorder's Office — Early Voting",
@@ -17538,7 +17680,9 @@
       "precinct_name": "Precincts 76/113 (Valley of the Sun / Schnepf South)",
       "precinct_name_es": "Precintos 76/113 (Valley of the Sun / Schnepf South)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 76/113 (Valley of the Sun / Schnepf South)",
+      "precinct_es": "Precintos 76/113 (Valley of the Sun / Schnepf South)"
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Barnes Pkwy — Election Day",
@@ -17565,7 +17709,9 @@
       "precinct_name": "Precincts 88/133 (Ironwood Crossing West / Gateway)",
       "precinct_name_es": "Precintos 88/133 (Ironwood Crossing West / Gateway)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 88/133 (Ironwood Crossing West / Gateway)",
+      "precinct_es": "Precintos 88/133 (Ironwood Crossing West / Gateway)"
     },
     {
       "name": "Pinal County Complex - Maricopa Complex — Election Day",
@@ -17592,7 +17738,9 @@
       "precinct_name": "Precinct 78 (Maricopa Meadows)",
       "precinct_name_es": "Precinto 78 (Maricopa Meadows)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 78 (Maricopa Meadows)",
+      "precinct_es": "Precinto 78 (Maricopa Meadows)"
     },
     {
       "name": "Pinal County Complex - Apache Junction Campus — Election Day",
@@ -17619,7 +17767,9 @@
       "precinct_name": "Precinct 58 (Apache Junction E. Central)",
       "precinct_name_es": "Precinto 58 (Apache Junction E. Central)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 58 (Apache Junction E. Central)",
+      "precinct_es": "Precinto 58 (Apache Junction E. Central)"
     },
     {
       "name": "FUSD - San Tan Mountain Middle School — Election Day",
@@ -17646,7 +17796,9 @@
       "precinct_name": "Precincts 68/126/130/131 (San Tan Park / San Tan Flats / Chandler Heights S / Occidental)",
       "precinct_name_es": "Precintos 68/126/130/131 (San Tan Park / San Tan Flats / Chandler Heights S / Occidental)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 68/126/130/131 (San Tan Park / San Tan Flats / Chandler Heights S / Occidental)",
+      "precinct_es": "Precintos 68/126/130/131 (San Tan Park / San Tan Flats / Chandler Heights S / Occidental)"
     },
     {
       "name": "FUSD - Circle Cross Ranch S.T.E.M Academy K-8 — Election Day",
@@ -17673,7 +17825,9 @@
       "precinct_name": "Precincts 86/116 (Circle Cross Ranch / Gantzel)",
       "precinct_name_es": "Precintos 86/116 (Circle Cross Ranch / Gantzel)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 86/116 (Circle Cross Ranch / Gantzel)",
+      "precinct_es": "Precintos 86/116 (Circle Cross Ranch / Gantzel)"
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Coolidge — Election Day",
@@ -17700,7 +17854,9 @@
       "precinct_name": "Precincts 18/129 (Coolidge Nw / Coolidge W)",
       "precinct_name_es": "Precintos 18/129 (Coolidge Nw / Coolidge W)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 18/129 (Coolidge Nw / Coolidge W)",
+      "precinct_es": "Precintos 18/129 (Coolidge Nw / Coolidge W)"
     },
     {
       "name": "J.O. Combs Unified School District Administration Building — Election Day",
@@ -17727,7 +17883,9 @@
       "precinct_name": "Precincts 89/108/134 (Quail Hollow / Ironwood Crossing East / the Ranches East)",
       "precinct_name_es": "Precintos 89/108/134 (Quail Hollow / Ironwood Crossing East / the Ranches East)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 89/108/134 (Quail Hollow / Ironwood Crossing East / the Ranches East)",
+      "precinct_es": "Precintos 89/108/134 (Quail Hollow / Ironwood Crossing East / the Ranches East)"
     },
     {
       "name": "Eloy City Hall — Election Day",
@@ -17754,7 +17912,9 @@
       "precinct_name": "Precincts 11/12/14 (Picacho / Eloy / Eloy South)",
       "precinct_name_es": "Precintos 11/12/14 (Picacho / Eloy / Eloy South)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 11/12/14 (Picacho / Eloy / Eloy South)",
+      "precinct_es": "Precintos 11/12/14 (Picacho / Eloy / Eloy South)"
     },
     {
       "name": "Florence Town Hall Council Chambers — Election Day",
@@ -17781,7 +17941,9 @@
       "precinct_name": "Precincts 24/123 (Florence South / Flo Kelvin)",
       "precinct_name_es": "Precintos 24/123 (Florence South / Flo Kelvin)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 24/123 (Florence South / Flo Kelvin)",
+      "precinct_es": "Precintos 24/123 (Florence South / Flo Kelvin)"
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Ocotillo Rd. — Election Day",
@@ -17808,7 +17970,9 @@
       "precinct_name": "Precincts 71/132 (Schnepf North / Castlegate)",
       "precinct_name_es": "Precintos 71/132 (Schnepf North / Castlegate)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 71/132 (Schnepf North / Castlegate)",
+      "precinct_es": "Precintos 71/132 (Schnepf North / Castlegate)"
     },
     {
       "name": "JOCUSD - Jack Harmon Elementary School — Election Day",
@@ -17835,7 +17999,9 @@
       "precinct_name": "Precincts 98/117 (Links Estates / Ovation)",
       "precinct_name_es": "Precintos 98/117 (Links Estates / Ovation)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 98/117 (Links Estates / Ovation)",
+      "precinct_es": "Precintos 98/117 (Links Estates / Ovation)"
     },
     {
       "name": "CGESD - Cholla Elementary School — Election Day",
@@ -17862,7 +18028,9 @@
       "precinct_name": "Precincts 37/99/127 (Casa Grande Nw / Mission Valley / Cg Desert Willow)",
       "precinct_name_es": "Precintos 37/99/127 (Casa Grande Nw / Mission Valley / Cg Desert Willow)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 37/99/127 (Casa Grande Nw / Mission Valley / Cg Desert Willow)",
+      "precinct_es": "Precintos 37/99/127 (Casa Grande Nw / Mission Valley / Cg Desert Willow)"
     },
     {
       "name": "Town of Kearny Constitutional Hall, Bldg E — Election Day",
@@ -17889,7 +18057,9 @@
       "precinct_name": "Precinct 1 (Kearny)",
       "precinct_name_es": "Precinto 1 (Kearny)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 1 (Kearny)",
+      "precinct_es": "Precinto 1 (Kearny)"
     },
     {
       "name": "Copper Sky Multi-generational Center — Election Day",
@@ -17916,7 +18086,9 @@
       "precinct_name": "Precinct 100 (Desert Cedars)",
       "precinct_name_es": "Precinto 100 (Desert Cedars)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 100 (Desert Cedars)",
+      "precinct_es": "Precinto 100 (Desert Cedars)"
     },
     {
       "name": "MUSD - Maricopa Wells Middle School — Election Day",
@@ -17943,7 +18115,9 @@
       "precinct_name": "Precinct 101 (Alterra North)",
       "precinct_name_es": "Precinto 101 (Alterra North)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 101 (Alterra North)",
+      "precinct_es": "Precinto 101 (Alterra North)"
     },
     {
       "name": "Dudleyville Multi-generational Center — Election Day",
@@ -17970,7 +18144,9 @@
       "precinct_name": "Precincts 04/103 (Dudleyville / San Carlos Community)",
       "precinct_name_es": "Precintos 04/103 (Dudleyville / San Carlos Community)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 04/103 (Dudleyville / San Carlos Community)",
+      "precinct_es": "Precintos 04/103 (Dudleyville / San Carlos Community)"
     },
     {
       "name": "Sonland Lutheran Church — Election Day",
@@ -17997,7 +18173,9 @@
       "precinct_name": "Precincts 82/107 (Cruz Park / Casa Grande Cowtown)",
       "precinct_name_es": "Precintos 82/107 (Cruz Park / Casa Grande Cowtown)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 82/107 (Cruz Park / Casa Grande Cowtown)",
+      "precinct_es": "Precintos 82/107 (Cruz Park / Casa Grande Cowtown)"
     },
     {
       "name": "Global Water Resources — Election Day",
@@ -18024,7 +18202,9 @@
       "precinct_name": "Precinct 110 (Rancho El Dorado)",
       "precinct_name_es": "Precinto 110 (Rancho El Dorado)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 110 (Rancho El Dorado)",
+      "precinct_es": "Precinto 110 (Rancho El Dorado)"
     },
     {
       "name": "Central Lutheran Church - Fellowship Hall — Election Day",
@@ -18051,7 +18231,9 @@
       "precinct_name": "Precincts 10/91/112 (Toltec South / Silverbell / Sunland Ranches)",
       "precinct_name_es": "Precintos 10/91/112 (Toltec South / Silverbell / Sunland Ranches)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 10/91/112 (Toltec South / Silverbell / Sunland Ranches)",
+      "precinct_es": "Precintos 10/91/112 (Toltec South / Silverbell / Sunland Ranches)"
     },
     {
       "name": "Anthem Parkside Community Center — Election Day",
@@ -18078,7 +18260,9 @@
       "precinct_name": "Precincts 109/118 (Florence Anthem / Anthem West)",
       "precinct_name_es": "Precintos 109/118 (Florence Anthem / Anthem West)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 109/118 (Florence Anthem / Anthem West)",
+      "precinct_es": "Precintos 109/118 (Florence Anthem / Anthem West)"
     },
     {
       "name": "Toltec Community/senior Center — Election Day",
@@ -18105,7 +18289,9 @@
       "precinct_name": "Precincts 13/105/121 (Toltec / Toltec Southwest / Robson Ranch)",
       "precinct_name_es": "Precintos 13/105/121 (Toltec / Toltec Southwest / Robson Ranch)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 13/105/121 (Toltec / Toltec Southwest / Robson Ranch)",
+      "precinct_es": "Precintos 13/105/121 (Toltec / Toltec Southwest / Robson Ranch)"
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Trekell Rd. — Election Day",
@@ -18132,7 +18318,9 @@
       "precinct_name": "Precincts 39/122 (Casa Grande Rancho Grande / Cg Ghost Ranch)",
       "precinct_name_es": "Precintos 39/122 (Casa Grande Rancho Grande / Cg Ghost Ranch)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 39/122 (Casa Grande Rancho Grande / Cg Ghost Ranch)",
+      "precinct_es": "Precintos 39/122 (Casa Grande Rancho Grande / Cg Ghost Ranch)"
     },
     {
       "name": "Heritage Casa Grande Funeral Home — Election Day",
@@ -18159,7 +18347,9 @@
       "precinct_name": "Precincts 41/124 (Casa Grande Interchange / Cg Promenade)",
       "precinct_name_es": "Precintos 41/124 (Casa Grande Interchange / Cg Promenade)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 41/124 (Casa Grande Interchange / Cg Promenade)",
+      "precinct_es": "Precintos 41/124 (Casa Grande Interchange / Cg Promenade)"
     },
     {
       "name": "Central Arizona College - Maricopa Campus — Election Day",
@@ -18186,7 +18376,9 @@
       "precinct_name": "Precincts 102/128 (Maricopa Wells / Mar Desert Passage)",
       "precinct_name_es": "Precintos 102/128 (Maricopa Wells / Mar Desert Passage)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 102/128 (Maricopa Wells / Mar Desert Passage)",
+      "precinct_es": "Precintos 102/128 (Maricopa Wells / Mar Desert Passage)"
     },
     {
       "name": "Radiance @ Superstition Vistas Clubhouse — Election Day",
@@ -18213,7 +18405,9 @@
       "precinct_name": "Precinct 137 (Aj Radiance)",
       "precinct_name_es": "Precinto 137 (Aj Radiance)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 137 (Aj Radiance)",
+      "precinct_es": "Precinto 137 (Aj Radiance)"
     },
     {
       "name": "AJUSD - Four Peaks Elementary School — Election Day",
@@ -18240,7 +18434,9 @@
       "precinct_name": "Precincts 45/138 (Apache Jct Ne / Aj Saddle Butte)",
       "precinct_name_es": "Precintos 45/138 (Apache Jct Ne / Aj Saddle Butte)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 45/138 (Apache Jct Ne / Aj Saddle Butte)",
+      "precinct_es": "Precintos 45/138 (Apache Jct Ne / Aj Saddle Butte)"
     },
     {
       "name": "Golden Vista Resort — Election Day",
@@ -18267,7 +18463,9 @@
       "precinct_name": "Precincts 59/139 (Apache Junction South / Gold Canyon Renaissance)",
       "precinct_name_es": "Precintos 59/139 (Apache Junction South / Gold Canyon Renaissance)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 59/139 (Apache Junction South / Gold Canyon Renaissance)",
+      "precinct_es": "Precintos 59/139 (Apache Junction South / Gold Canyon Renaissance)"
     },
     {
       "name": "JOCUSD - J.O. Combs Middle School — Election Day",
@@ -18294,7 +18492,9 @@
       "precinct_name": "Precincts 28/114/140 (Queen Creek / Stv Pecan Creek / Pecans)",
       "precinct_name_es": "Precintos 28/114/140 (Queen Creek / Stv Pecan Creek / Pecans)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 28/114/140 (Queen Creek / Stv Pecan Creek / Pecans)",
+      "precinct_es": "Precintos 28/114/140 (Queen Creek / Stv Pecan Creek / Pecans)"
     },
     {
       "name": "Saddlebrooke One — Election Day",
@@ -18321,7 +18521,9 @@
       "precinct_name": "Precinct 15 (Saddlebrooke East)",
       "precinct_name_es": "Precinto 15 (Saddlebrooke East)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 15 (Saddlebrooke East)",
+      "precinct_es": "Precinto 15 (Saddlebrooke East)"
     },
     {
       "name": "Coolidge Women's Club — Election Day",
@@ -18348,7 +18550,9 @@
       "precinct_name": "Precinct 17 (Coolidge Ne)",
       "precinct_name_es": "Precinto 17 (Coolidge Ne)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 17 (Coolidge Ne)",
+      "precinct_es": "Precinto 17 (Coolidge Ne)"
     },
     {
       "name": "City of Coolidge Council Chambers — Election Day",
@@ -18375,7 +18579,9 @@
       "precinct_name": "Precinct 19 (Coolidge South)",
       "precinct_name_es": "Precinto 19 (Coolidge South)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 19 (Coolidge South)",
+      "precinct_es": "Precinto 19 (Coolidge South)"
     },
     {
       "name": "Randolph Baptist Church — Election Day",
@@ -18402,7 +18608,9 @@
       "precinct_name": "Precinct 20 (Randolph)",
       "precinct_name_es": "Precinto 20 (Randolph)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 20 (Randolph)",
+      "precinct_es": "Precinto 20 (Randolph)"
     },
     {
       "name": "Central Arizona College - Signal Peak Campus — Election Day",
@@ -18429,7 +18637,9 @@
       "precinct_name": "Precinct 21 (Central Arizona College)",
       "precinct_name_es": "Precinto 21 (Central Arizona College)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 21 (Central Arizona College)",
+      "precinct_es": "Precinto 21 (Central Arizona College)"
     },
     {
       "name": "Pinal County Fairgrounds — Election Day",
@@ -18456,7 +18666,9 @@
       "precinct_name": "Precinct 22 (Eleven Mile Corner)",
       "precinct_name_es": "Precinto 22 (Eleven Mile Corner)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 22 (Eleven Mile Corner)",
+      "precinct_es": "Precinto 22 (Eleven Mile Corner)"
     },
     {
       "name": "Florence Garden's Clubhouse — Election Day",
@@ -18483,7 +18695,9 @@
       "precinct_name": "Precinct 23 (Florence North)",
       "precinct_name_es": "Precinto 23 (Florence North)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 23 (Florence North)",
+      "precinct_es": "Precinto 23 (Florence North)"
     },
     {
       "name": "Rancho Sonora RV Park Clubhouse — Election Day",
@@ -18510,7 +18724,9 @@
       "precinct_name": "Precinct 25 (Cactus Forest)",
       "precinct_name_es": "Precinto 25 (Cactus Forest)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 25 (Cactus Forest)",
+      "precinct_es": "Precinto 25 (Cactus Forest)"
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Desert Willow Blvd. — Election Day",
@@ -18537,7 +18753,9 @@
       "precinct_name": "Precinct 26 (Johnson Ranch)",
       "precinct_name_es": "Precinto 26 (Johnson Ranch)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 26 (Johnson Ranch)",
+      "precinct_es": "Precinto 26 (Johnson Ranch)"
     },
     {
       "name": "Gila River Indian Community District #3 Service Center — Election Day",
@@ -18564,7 +18782,9 @@
       "precinct_name": "Precinct 29 (Sacaton)",
       "precinct_name_es": "Precinto 29 (Sacaton)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 29 (Sacaton)",
+      "precinct_es": "Precinto 29 (Sacaton)"
     },
     {
       "name": "Maricopa Library — Election Day",
@@ -18591,7 +18811,9 @@
       "precinct_name": "Precinct 30 (Maricopa)",
       "precinct_name_es": "Precinto 30 (Maricopa)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 30 (Maricopa)",
+      "precinct_es": "Precinto 30 (Maricopa)"
     },
     {
       "name": "First Baptist Church of Stanfield — Election Day",
@@ -18618,7 +18840,9 @@
       "precinct_name": "Precinct 31 (Stanfield)",
       "precinct_name_es": "Precinto 31 (Stanfield)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 31 (Stanfield)",
+      "precinct_es": "Precinto 31 (Stanfield)"
     },
     {
       "name": "First Presbyterian Church of Casa Grande — Election Day",
@@ -18645,7 +18869,9 @@
       "precinct_name": "Precinct 33 (Casa Grande N Central)",
       "precinct_name_es": "Precinto 33 (Casa Grande N Central)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 33 (Casa Grande N Central)",
+      "precinct_es": "Precinto 33 (Casa Grande N Central)"
     },
     {
       "name": "Trinity Southern Baptist Church — Election Day",
@@ -18672,7 +18898,9 @@
       "precinct_name": "Precinct 34 (Casa Grande S Central)",
       "precinct_name_es": "Precinto 34 (Casa Grande S Central)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 34 (Casa Grande S Central)",
+      "precinct_es": "Precinto 34 (Casa Grande S Central)"
     },
     {
       "name": "Calvary Chapel of Casa Grande — Election Day",
@@ -18699,7 +18927,9 @@
       "precinct_name": "Precincts 36/38 (Casa Grande Se / Casa Grande Sw)",
       "precinct_name_es": "Precintos 36/38 (Casa Grande Se / Casa Grande Sw)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 36/38 (Casa Grande Se / Casa Grande Sw)",
+      "precinct_es": "Precintos 36/38 (Casa Grande Se / Casa Grande Sw)"
     },
     {
       "name": "AJUSD - Cactus Canyon Jr. High School — Election Day",
@@ -18726,7 +18956,9 @@
       "precinct_name": "Precinct 40 (Apache Jct Superstition)",
       "precinct_name_es": "Precinto 40 (Apache Jct Superstition)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 40 (Apache Jct Superstition)",
+      "precinct_es": "Precinto 40 (Apache Jct Superstition)"
     },
     {
       "name": "AJUSD - Superstition Mountain Elementary School — Election Day",
@@ -18753,7 +18985,9 @@
       "precinct_name": "Precinct 42 (Apache Jct Nw)",
       "precinct_name_es": "Precinto 42 (Apache Jct Nw)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 42 (Apache Jct Nw)",
+      "precinct_es": "Precinto 42 (Apache Jct Nw)"
     },
     {
       "name": "Seventh Day Adventist Church of Apache Junction — Election Day",
@@ -18780,7 +19014,9 @@
       "precinct_name": "Precinct 43 (Apache Jct Sw)",
       "precinct_name_es": "Precinto 43 (Apache Jct Sw)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 43 (Apache Jct Sw)",
+      "precinct_es": "Precinto 43 (Apache Jct Sw)"
     },
     {
       "name": "Moose Lodge #2039 — Election Day",
@@ -18807,7 +19043,9 @@
       "precinct_name": "Precinct 44 (Apache Jct Se)",
       "precinct_name_es": "Precinto 44 (Apache Jct Se)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 44 (Apache Jct Se)",
+      "precinct_es": "Precinto 44 (Apache Jct Se)"
     },
     {
       "name": "AJUSD - Desert Vista Elementary School — Election Day",
@@ -18834,7 +19072,9 @@
       "precinct_name": "Precinct 46 (Apache Jct East)",
       "precinct_name_es": "Precinto 46 (Apache Jct East)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 46 (Apache Jct East)",
+      "precinct_es": "Precinto 46 (Apache Jct East)"
     },
     {
       "name": "Central Arizona College - Superstition Mountain Campus — Election Day",
@@ -18861,7 +19101,9 @@
       "precinct_name": "Precinct 47 (Apache Jct Central)",
       "precinct_name_es": "Precinto 47 (Apache Jct Central)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 47 (Apache Jct Central)",
+      "precinct_es": "Precinto 47 (Apache Jct Central)"
     },
     {
       "name": "Gold Canyon United Methodist Church — Election Day",
@@ -18888,7 +19130,9 @@
       "precinct_name": "Precinct 48 (Gold Canyon)",
       "precinct_name_es": "Precinto 48 (Gold Canyon)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 48 (Gold Canyon)",
+      "precinct_es": "Precinto 48 (Gold Canyon)"
     },
     {
       "name": "Queen Valley Homeowners Association Recreational Hall — Election Day",
@@ -18915,7 +19159,9 @@
       "precinct_name": "Precinct 49 (Queen Valley)",
       "precinct_name_es": "Precinto 49 (Queen Valley)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 49 (Queen Valley)",
+      "precinct_es": "Precinto 49 (Queen Valley)"
     },
     {
       "name": "San Manuel Community Center — Election Day",
@@ -18942,7 +19188,9 @@
       "precinct_name": "Precinct 5 (San Manuel)",
       "precinct_name_es": "Precinto 5 (San Manuel)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 5 (San Manuel)",
+      "precinct_es": "Precinto 5 (San Manuel)"
     },
     {
       "name": "St. Mary's Center — Election Day",
@@ -18969,7 +19217,9 @@
       "precinct_name": "Precincts 50/51/52 (Superior / Superior West / Sutton Summit)",
       "precinct_name_es": "Precintos 50/51/52 (Superior / Superior West / Sutton Summit)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 50/51/52 (Superior / Superior West / Sutton Summit)",
+      "precinct_es": "Precintos 50/51/52 (Superior / Superior West / Sutton Summit)"
     },
     {
       "name": "Tohono O'odham Nation- Chui Chu Elder Center — Election Day",
@@ -18996,7 +19246,9 @@
       "precinct_name": "Precinct 53 (Chui Chu)",
       "precinct_name_es": "Precinto 53 (Chui Chu)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 53 (Chui Chu)",
+      "precinct_es": "Precinto 53 (Chui Chu)"
     },
     {
       "name": "Thunderbird Fire Department - Community Building — Election Day",
@@ -19023,7 +19275,9 @@
       "precinct_name": "Precinct 54 (Thunderbird Farms)",
       "precinct_name_es": "Precinto 54 (Thunderbird Farms)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 54 (Thunderbird Farms)",
+      "precinct_es": "Precinto 54 (Thunderbird Farms)"
     },
     {
       "name": "Cowboy Church West Building — Election Day",
@@ -19050,7 +19304,9 @@
       "precinct_name": "Precinct 55 (Casa Grande West)",
       "precinct_name_es": "Precinto 55 (Casa Grande West)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 55 (Casa Grande West)",
+      "precinct_es": "Precinto 55 (Casa Grande West)"
     },
     {
       "name": "Apache Junction First Assembly of God — Election Day",
@@ -19077,7 +19333,9 @@
       "precinct_name": "Precinct 56 (Apache Junction North)",
       "precinct_name_es": "Precinto 56 (Apache Junction North)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 56 (Apache Junction North)",
+      "precinct_es": "Precinto 56 (Apache Junction North)"
     },
     {
       "name": "Elks Lodge #2349 — Election Day",
@@ -19104,7 +19362,9 @@
       "precinct_name": "Precinct 57 (Apache Junction N. Central)",
       "precinct_name_es": "Precinto 57 (Apache Junction N. Central)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 57 (Apache Junction N. Central)",
+      "precinct_es": "Precinto 57 (Apache Junction N. Central)"
     },
     {
       "name": "Mammoth Community Center — Election Day",
@@ -19131,7 +19391,9 @@
       "precinct_name": "Precinct 6 (Mammoth)",
       "precinct_name_es": "Precinto 6 (Mammoth)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 6 (Mammoth)",
+      "precinct_es": "Precinto 6 (Mammoth)"
     },
     {
       "name": "Gila River Indian Community District #1 Veterans Hall — Election Day",
@@ -19158,7 +19420,9 @@
       "precinct_name": "Precinct 60 (Blackwater)",
       "precinct_name_es": "Precinto 60 (Blackwater)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 60 (Blackwater)",
+      "precinct_es": "Precinto 60 (Blackwater)"
     },
     {
       "name": "Gila River Indian Community District #4 Service Center — Election Day",
@@ -19185,7 +19449,9 @@
       "precinct_name": "Precinct 61 (San Tan)",
       "precinct_name_es": "Precinto 61 (San Tan)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 61 (San Tan)",
+      "precinct_es": "Precinto 61 (San Tan)"
     },
     {
       "name": "Gila River Indian Community District #5 Veterans Building — Election Day",
@@ -19212,7 +19478,9 @@
       "precinct_name": "Precinct 62 (Casa Blanca)",
       "precinct_name_es": "Precinto 62 (Casa Blanca)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 62 (Casa Blanca)",
+      "precinct_es": "Precinto 62 (Casa Blanca)"
     },
     {
       "name": "First Baptist Church of Apache Junction — Election Day",
@@ -19239,7 +19507,9 @@
       "precinct_name": "Precinct 63 (Apache Trail)",
       "precinct_name_es": "Precinto 63 (Apache Trail)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 63 (Apache Trail)",
+      "precinct_es": "Precinto 63 (Apache Trail)"
     },
     {
       "name": "Mountain View Lutheran Church — Election Day",
@@ -19266,7 +19536,9 @@
       "precinct_name": "Precinct 64 (Superstition Mountain)",
       "precinct_name_es": "Precinto 64 (Superstition Mountain)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 64 (Superstition Mountain)",
+      "precinct_es": "Precinto 64 (Superstition Mountain)"
     },
     {
       "name": "Mountainbrook Village — Election Day",
@@ -19293,7 +19565,9 @@
       "precinct_name": "Precinct 66 (Mountainbrook Village)",
       "precinct_name_es": "Precinto 66 (Mountainbrook Village)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 66 (Mountainbrook Village)",
+      "precinct_es": "Precinto 66 (Mountainbrook Village)"
     },
     {
       "name": "Pinal County Public Works — Election Day",
@@ -19320,7 +19594,9 @@
       "precinct_name": "Precinct 67 (Hidden Valley)",
       "precinct_name_es": "Precinto 67 (Hidden Valley)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 67 (Hidden Valley)",
+      "precinct_es": "Precinto 67 (Hidden Valley)"
     },
     {
       "name": "Pinal County Complex - Bella Vista Complex — Election Day",
@@ -19347,7 +19623,9 @@
       "precinct_name": "Precinct 69 (Bella Vista)",
       "precinct_name_es": "Precinto 69 (Bella Vista)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 69 (Bella Vista)",
+      "precinct_es": "Precinto 69 (Bella Vista)"
     },
     {
       "name": "FUSD - Magma Ranch K-8 — Election Day",
@@ -19374,7 +19652,9 @@
       "precinct_name": "Precinct 70 (Copper Basin)",
       "precinct_name_es": "Precinto 70 (Copper Basin)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 70 (Copper Basin)",
+      "precinct_es": "Precinto 70 (Copper Basin)"
     },
     {
       "name": "AJUSD - Peralta Trail Elementary School — Election Day",
@@ -19401,7 +19681,9 @@
       "precinct_name": "Precinct 72 (Peralta)",
       "precinct_name_es": "Precinto 72 (Peralta)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 72 (Peralta)",
+      "precinct_es": "Precinto 72 (Peralta)"
     },
     {
       "name": "MUSD - Santa Rosa Elementary School — Election Day",
@@ -19428,7 +19710,9 @@
       "precinct_name": "Precinct 73 (Santa Rosa)",
       "precinct_name_es": "Precinto 73 (Santa Rosa)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 73 (Santa Rosa)",
+      "precinct_es": "Precinto 73 (Santa Rosa)"
     },
     {
       "name": "MUSD - Pima Butte Elementary School — Election Day",
@@ -19455,7 +19739,9 @@
       "precinct_name": "Precinct 74 (El Dorado)",
       "precinct_name_es": "Precinto 74 (El Dorado)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 74 (El Dorado)",
+      "precinct_es": "Precinto 74 (El Dorado)"
     },
     {
       "name": "Ak Chin Indian Community Service Center — Election Day",
@@ -19482,7 +19768,9 @@
       "precinct_name": "Precinct 77 (Ak Chin Community)",
       "precinct_name_es": "Precinto 77 (Ak Chin Community)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 77 (Ak Chin Community)",
+      "precinct_es": "Precinto 77 (Ak Chin Community)"
     },
     {
       "name": "Saddlebrooke Homeowners Association #2 - Ballroom West — Election Day",
@@ -19509,7 +19797,9 @@
       "precinct_name": "Precinct 8 (Saddlebrooke West)",
       "precinct_name_es": "Precinto 8 (Saddlebrooke West)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 8 (Saddlebrooke West)",
+      "precinct_es": "Precinto 8 (Saddlebrooke West)"
     },
     {
       "name": "Crossroads Church of Casa Grande — Election Day",
@@ -19536,7 +19826,9 @@
       "precinct_name": "Precinct 81 (Ironwood Common)",
       "precinct_name_es": "Precinto 81 (Ironwood Common)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 81 (Ironwood Common)",
+      "precinct_es": "Precinto 81 (Ironwood Common)"
     },
     {
       "name": "Casa Grande Baptist Church — Election Day",
@@ -19563,7 +19855,9 @@
       "precinct_name": "Precinct 83 (Coyote Ranch)",
       "precinct_name_es": "Precinto 83 (Coyote Ranch)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 83 (Coyote Ranch)",
+      "precinct_es": "Precinto 83 (Coyote Ranch)"
     },
     {
       "name": "Gold Canyon Community Church — Election Day",
@@ -19590,7 +19884,9 @@
       "precinct_name": "Precinct 84 (Gold Canyon North)",
       "precinct_name_es": "Precinto 84 (Gold Canyon North)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 84 (Gold Canyon North)",
+      "precinct_es": "Precinto 84 (Gold Canyon North)"
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Bella Vista Rd. — Election Day",
@@ -19617,7 +19913,9 @@
       "precinct_name": "Precinct 87 (Johnson Ranch East)",
       "precinct_name_es": "Precinto 87 (Johnson Ranch East)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 87 (Johnson Ranch East)",
+      "precinct_es": "Precinto 87 (Johnson Ranch East)"
     },
     {
       "name": "Arizona City Community Library — Election Day",
@@ -19644,7 +19942,9 @@
       "precinct_name": "Precinct 9 (Arizona City)",
       "precinct_name_es": "Precinto 9 (Arizona City)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 9 (Arizona City)",
+      "precinct_es": "Precinto 9 (Arizona City)"
     },
     {
       "name": "MUSD - Maricopa Unified School District Office — Election Day",
@@ -19671,7 +19971,9 @@
       "precinct_name": "Precinct 90 (Senita)",
       "precinct_name_es": "Precinto 90 (Senita)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 90 (Senita)",
+      "precinct_es": "Precinto 90 (Senita)"
     },
     {
       "name": "Saddlebrooke Homeowners Association #2 Desert View Theater — Election Day",
@@ -19698,7 +20000,9 @@
       "precinct_name": "Precinct 92 (Eagle Crest)",
       "precinct_name_es": "Precinto 92 (Eagle Crest)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 92 (Eagle Crest)",
+      "precinct_es": "Precinto 92 (Eagle Crest)"
     },
     {
       "name": "Oracle Community Center — Election Day",
@@ -19725,7 +20029,9 @@
       "precinct_name": "Precinct 93 (Oracle South)",
       "precinct_name_es": "Precinto 93 (Oracle South)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 93 (Oracle South)",
+      "precinct_es": "Precinto 93 (Oracle South)"
     },
     {
       "name": "Lifepoint Church — Election Day",
@@ -19752,7 +20058,9 @@
       "precinct_name": "Precinct 97 (Copper Basin Southeast)",
       "precinct_name_es": "Precinto 97 (Copper Basin Southeast)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 97 (Copper Basin Southeast)",
+      "precinct_es": "Precinto 97 (Copper Basin Southeast)"
     },
     {
       "name": "Christ the Victor Lutheran Church — Election Day",
@@ -19779,7 +20087,9 @@
       "precinct_name": "Precincts 27/135 (Poston Butte / Flo Wild Horse)",
       "precinct_name_es": "Precintos 27/135 (Poston Butte / Flo Wild Horse)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 27/135 (Poston Butte / Flo Wild Horse)",
+      "precinct_es": "Precintos 27/135 (Poston Butte / Flo Wild Horse)"
     },
     {
       "name": "FUSD - Skyline Ranch Elementary School — Election Day",
@@ -19806,7 +20116,9 @@
       "precinct_name": "Precincts 94/95/125 (Skyline Ranch / Queen Creek South / Skyline West)",
       "precinct_name_es": "Precintos 94/95/125 (Skyline Ranch / Queen Creek South / Skyline West)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 94/95/125 (Skyline Ranch / Queen Creek South / Skyline West)",
+      "precinct_es": "Precintos 94/95/125 (Skyline Ranch / Queen Creek South / Skyline West)"
     },
     {
       "name": "Ranch House Grill — Election Day",
@@ -19833,7 +20145,9 @@
       "precinct_name": "Precincts 07/106 (Oracle / Saddlebrooke Ranch)",
       "precinct_name_es": "Precintos 07/106 (Oracle / Saddlebrooke Ranch)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 07/106 (Oracle / Saddlebrooke Ranch)",
+      "precinct_es": "Precintos 07/106 (Oracle / Saddlebrooke Ranch)"
     },
     {
       "name": "Red Rock Elementary School — Election Day",
@@ -19860,7 +20174,9 @@
       "precinct_name": "Precincts 16/104 (Red Rock / Picacho South)",
       "precinct_name_es": "Precintos 16/104 (Red Rock / Picacho South)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 16/104 (Red Rock / Picacho South)",
+      "precinct_es": "Precintos 16/104 (Red Rock / Picacho South)"
     },
     {
       "name": "FUSD - San Tan Heights Elementary — Election Day",
@@ -19887,7 +20203,9 @@
       "precinct_name": "Precincts 85/96/120 (San Tan Heights / San Tan Ranches / Stv Pavilion)",
       "precinct_name_es": "Precintos 85/96/120 (San Tan Heights / San Tan Ranches / Stv Pavilion)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 85/96/120 (San Tan Heights / San Tan Ranches / Stv Pavilion)",
+      "precinct_es": "Precintos 85/96/120 (San Tan Heights / San Tan Ranches / Stv Pavilion)"
     },
     {
       "name": "MUSD - Desert Wind Middle School — Election Day",
@@ -19914,7 +20232,9 @@
       "precinct_name": "Precincts 111/119 (Tortosa / Desert Sunrise)",
       "precinct_name_es": "Precintos 111/119 (Tortosa / Desert Sunrise)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 111/119 (Tortosa / Desert Sunrise)",
+      "precinct_es": "Precintos 111/119 (Tortosa / Desert Sunrise)"
     },
     {
       "name": "Villages @ Rancho El Dorado — Election Day",
@@ -19941,7 +20261,9 @@
       "precinct_name": "Precinct 79 (Maricopa Fiesta)",
       "precinct_name_es": "Precinto 79 (Maricopa Fiesta)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 79 (Maricopa Fiesta)",
+      "precinct_es": "Precinto 79 (Maricopa Fiesta)"
     },
     {
       "name": "FUSD - Walker Butte Middle School — Election Day",
@@ -19968,7 +20290,9 @@
       "precinct_name": "Precincts 75/136 (Walker Butte / Indigo Sky)",
       "precinct_name_es": "Precintos 75/136 (Walker Butte / Indigo Sky)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 75/136 (Walker Butte / Indigo Sky)",
+      "precinct_es": "Precintos 75/136 (Walker Butte / Indigo Sky)"
     },
     {
       "name": "El Ranchito Market Drop Box",
@@ -22962,7 +23286,9 @@
       "precinct_name": "Precincts 80/115 (Province / Homestead)",
       "precinct_name_es": "Precintos 80/115 (Province / Homestead)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precincts 80/115 (Province / Homestead)",
+      "precinct_es": "Precintos 80/115 (Province / Homestead)"
     },
     {
       "name": "Casa Grande Community Recreation Center — Election Day",
@@ -22989,7 +23315,9 @@
       "precinct_name": "Precinct 35 (Casa Grande Ne)",
       "precinct_name_es": "Precinto 35 (Casa Grande Ne)",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct 35 (Casa Grande Ne)",
+      "precinct_es": "Precinto 35 (Casa Grande Ne)"
     },
     {
       "name": "Avra Valley Fire District — Election Day",
@@ -23269,7 +23597,9 @@
       "precinct_name": "Bylas Precinct #11",
       "precinct_name_es": "Precinto Bylas #11",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Bylas Precinct #11",
+      "precinct_es": "Precinto Bylas #11"
     },
     {
       "name": "San Carlos Housing Authority — Election Day",
@@ -23296,7 +23626,9 @@
       "precinct_name": "Peridot Precinct #16",
       "precinct_name_es": "Precinto Peridot #16",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Peridot Precinct #16",
+      "precinct_es": "Precinto Peridot #16"
     },
     {
       "name": "Bonita School — Election Day",
@@ -23323,7 +23655,9 @@
       "precinct_name": "Klondyke #12 & Bonita #13 Precincts",
       "precinct_name_es": "Precintos Klondyke #12 & Bonita #13",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Klondyke #12 & Bonita #13 Precincts",
+      "precinct_es": "Precintos Klondyke #12 & Bonita #13"
     },
     {
       "name": "Heber Mogollon Complex (Sat Oct 17) — Early Voting",
@@ -23488,7 +23822,9 @@
       "precinct_name": "Precinct #219 – Lake Havasu North",
       "precinct_name_es": "Precinto #219 – Lake Havasu North",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
-      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote"
+      "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
+      "precinct": "Precinct #219 – Lake Havasu North",
+      "precinct_es": "Precinto #219 – Lake Havasu North"
     },
     {
       "name": "Coconino County Voter Services, Flagstaff Mall — Emergency Voting",
