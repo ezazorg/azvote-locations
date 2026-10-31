@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-30T16:51:38-07:00",
+  "generated_at": "2026-10-30T17:10:19-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -22841,7 +22841,9 @@
       "label_es": "Votación de emergencia",
       "hours_es": "",
       "county_note": "Between JCPenney and Planet Fitness",
-      "precinct_ballots": "All Precincts"
+      "precinct_ballots": "All Precincts",
+      "county_note_es": "Entre JCPenney y Planet Fitness",
+      "precinct_ballots_es": "Todos los precintos"
     },
     {
       "name": "Coconino County Recorder’s Office — Emergency Voting",
@@ -22866,7 +22868,8 @@
       "label_es": "Votación de emergencia",
       "hours_es": "",
       "county_note": "",
-      "precinct_ballots": "All Precincts"
+      "precinct_ballots": "All Precincts",
+      "precinct_ballots_es": "Todos los precintos"
     },
     {
       "name": "Alta Edison Native American Outreach Center — Emergency Voting",
@@ -22891,7 +22894,9 @@
       "label_es": "Votación de emergencia",
       "hours_es": "",
       "county_note": "Behind the Tuba City Library",
-      "precinct_ballots": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90, & Tuba City 95"
+      "precinct_ballots": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90, & Tuba City 95",
+      "county_note_es": "Detrás de la biblioteca de Tuba City",
+      "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
   "last_checked": "2026-10-30T11:15:16-07:00"
