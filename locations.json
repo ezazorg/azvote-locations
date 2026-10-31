@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-10-30T17:33:51-07:00",
+  "generated_at": "2026-10-30T17:41:32-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -22839,7 +22839,7 @@
       "site_name": "Coconino County Voter Services, Flagstaff Mall",
       "label_en": "Emergency Voting",
       "label_es": "Votación de emergencia",
-      "hours_es": "",
+      "hours_es": "sábado 31 de octubre, 8:00 a. m.–5:00 p. m.; domingo 1 de noviembre, 8:00 a. m.–5:00 p. m.; lunes 2 de noviembre, 8:00 a. m.–5:00 p. m.",
       "county_note": "Between JCPenney and Planet Fitness",
       "precinct_ballots": "All Precincts",
       "county_note_es": "Entre JCPenney y Planet Fitness",
@@ -22866,7 +22866,7 @@
       "site_name": "Coconino County Recorder’s Office",
       "label_en": "Emergency Voting",
       "label_es": "Votación de emergencia",
-      "hours_es": "",
+      "hours_es": "sábado 31 de octubre, 8:00 a. m.–5:00 p. m.; domingo 1 de noviembre, 8:00 a. m.–5:00 p. m.; lunes 2 de noviembre, 8:00 a. m.–5:00 p. m.",
       "county_note": "",
       "precinct_ballots": "All Precincts",
       "precinct_ballots_es": "Todos los precintos"
@@ -22892,12 +22892,12 @@
       "site_name": "Alta Edison Native American Outreach Center",
       "label_en": "Emergency Voting",
       "label_es": "Votación de emergencia",
-      "hours_es": "",
+      "hours_es": "sábado 31 de octubre, 8:00 a. m.–5:00 p. m. hora de verano (DST); domingo 1 de noviembre, 8:00 a. m.–5:00 p. m.; lunes 2 de noviembre, 8:00 a. m.–12:00 p. m.",
       "county_note": "Behind the Tuba City Library",
       "precinct_ballots": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90, & Tuba City 95",
       "county_note_es": "Detrás de la biblioteca de Tuba City",
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-10-30T17:33:51-07:00"
+  "last_checked": "2026-10-30T17:41:32-07:00"
 }
