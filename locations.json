@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-02T11:56:09-07:00",
+  "generated_at": "2026-11-02T12:01:34-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -6619,7 +6619,7 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Maricopa",
-      "description": "Opens: Oct 23, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Early Voting | Hours: Oct 23–24: 9:00 AM–5:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: Closed | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-23 through 2026-11-03 | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. | Source: https://locations.maricopa.vote | Status: published_final",
+      "description": "Opens: Oct 23, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Early Voting | Hours: Oct 23–24: 9:00 AM–5:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-23 through 2026-11-03 | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. | Source: https://locations.maricopa.vote | Status: published_final",
       "hours": "Oct 23–24: 9:00 AM–5:00 PM\nOct 25: Closed\nOct 26–30: 9:00 AM–7:00 PM\nOct 31: 9:00 AM–5:00 PM\nNov 1: Closed\nNov 2: 9:00 AM–5:00 PM\nNov 3: 6:00 AM–7:00 PM",
       "address": "18401 N 32Nd St, Phoenix, AZ 85032",
       "street": "18401 N 32Nd St",
@@ -9013,7 +9013,7 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Election Day",
       "county": "Maricopa",
-      "description": "Opens: Nov 2, 2026| Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Election Day | Hours: Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-11-02 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. Non-electioneering site per county (**). | Source: https://locations.maricopa.vote | Status: published_final",
+      "description": "Opens: Nov 2, 2026| Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Election Day | Hours: Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-11-02 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. Non-electioneering site per county (**). | Source: https://locations.maricopa.vote | Status: published_final",
       "hours": "Nov 2: 9:00 AM–5:00 PM\nNov 3: 6:00 AM–7:00 PM",
       "address": "2727 E Siesta Ln, Phoenix, AZ 85050",
       "street": "2727 E Siesta Ln",
@@ -23921,5 +23921,5 @@
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-11-02T11:56:09-07:00"
+  "last_checked": "2026-11-02T12:01:34-07:00"
 }
