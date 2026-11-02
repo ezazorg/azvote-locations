@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-02T12:01:34-07:00",
+  "generated_at": "2026-11-02T15:10:36-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -3983,13 +3983,16 @@
       "site_name": "Canyon Day Assembly of God Church",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
-      "hours_es": "",
+      "hours_es": "6:00 a. m.–7:00 p. m.",
       "precinct_name": "Canyon Day Precinct",
       "precinct_name_es": "Precinto Canyon Day",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
       "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
       "precinct": "Canyon Day Precinct",
-      "precinct_es": "Precinto Canyon Day"
+      "precinct_es": "Precinto Canyon Day",
+      "county_note": "Gila County Elections (Nov 2): \"Location Closed due to Flooding. Carrizo Voters go to the Canyon Day Assembly of God Church in Canyon Day (address above) to vote.\"",
+      "county_note_es": "Elecciones del Condado Gila (2 de nov.): \"Lugar cerrado debido a inundaciones. Los votantes de Carrizo deben ir a la Iglesia Asamblea de Dios de Canyon Day en Canyon Day (dirección arriba) para votar.\"",
+      "county_note_source": "https://www.gilacountyaz.gov/government/elections/polling_place_locations.php"
     },
     {
       "name": "Carrizo Assembly of God Church — Election Day",
@@ -4000,8 +4003,8 @@
       "voting_system": "Mixed (vote centers + precinct)",
       "type": "Election Day",
       "county": "Gila",
-      "description": "Opens: Nov 3, 2026 | Voting system: Mixed (vote centers + precinct) | County: Gila | Type: Election Day | Hours: 6:00 a.m.–7:00 p.m. | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Carrizo precinct polling site. Hours 6:00 a.m.–7:00 p.m. Election Day. | Source: https://www.gilacountyaz.gov/government/elections/polling_place_locations.php | Status: published_final",
-      "hours": "6:00 a.m.–7:00 p.m.",
+      "description": "Opens: Nov 3, 2026 | Voting system: Mixed (vote centers + precinct) | County: Gila | Type: Election Day | Hours: Nov 3: Closed | Dates: 2026-11-03 | Election: 2026 General Election | Notes: Carrizo precinct polling site. Gila County: Location Closed due to Flooding. Carrizo Voters go to the Canyon Day Assembly of God Church in Canyon Day (address above) to vote. | Source: https://www.gilacountyaz.gov/government/elections/polling_place_locations.php | Status: published_final",
+      "hours": "Nov 3: Closed",
       "address": "V-10 Road, Carrizo, AZ",
       "street": "V-10 Road",
       "city": "Carrizo",
@@ -4012,13 +4015,16 @@
       "site_name": "Carrizo Assembly of God Church",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
-      "hours_es": "",
+      "hours_es": "3 de nov.: Cerrado",
       "precinct_name": "Carrizo Precinct",
       "precinct_name_es": "Precinto Carrizo",
       "precinct_verify_note": "Please verify precinct location with my.arizona.vote",
       "precinct_verify_note_es": "Verifique la ubicación de su precinto en my.arizona.vote",
       "precinct": "Carrizo Precinct",
-      "precinct_es": "Precinto Carrizo"
+      "precinct_es": "Precinto Carrizo",
+      "county_note": "Gila County Elections (Nov 2): \"Location Closed due to Flooding. Carrizo Voters go to the Canyon Day Assembly of God Church in Canyon Day (address above) to vote.\"",
+      "county_note_es": "Elecciones del Condado Gila (2 de nov.): \"Lugar cerrado debido a inundaciones. Los votantes de Carrizo deben ir a la Iglesia Asamblea de Dios de Canyon Day en Canyon Day (dirección arriba) para votar.\"",
+      "county_note_source": "https://www.gilacountyaz.gov/government/elections/polling_place_locations.php"
     },
     {
       "name": "Christopher Creek Bible Fellowship Church — Election Day",
@@ -23921,5 +23927,5 @@
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-11-02T12:01:34-07:00"
+  "last_checked": "2026-11-02T15:10:36-07:00"
 }
