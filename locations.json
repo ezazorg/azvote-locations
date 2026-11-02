@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-01T17:38:51-07:00",
+  "generated_at": "2026-11-02T09:15:47-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -1173,7 +1173,9 @@
       "site_name": "Cochise County Recorder (Bisbee)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
+      "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
     {
       "name": "County Service Center (Benson) Drop Box",
@@ -1196,7 +1198,9 @@
       "site_name": "County Service Center (Benson)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
+      "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
     {
       "name": "County Service Center (Douglas) Drop Box",
@@ -1219,7 +1223,9 @@
       "site_name": "County Service Center (Douglas)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
+      "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
     {
       "name": "County Service Center (Sierra Vista) Drop Box",
@@ -1242,7 +1248,9 @@
       "site_name": "County Service Center (Sierra Vista)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
+      "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
     {
       "name": "County Service Center (Willcox) Drop Box",
@@ -1265,7 +1273,9 @@
       "site_name": "County Service Center (Willcox)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
+      "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
     {
       "name": "VC1 Douglas Service Center — Election Day",
@@ -6609,8 +6619,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Maricopa",
-      "description": "Opens: Oct 23, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Early Voting | Hours: Oct 23–24: 9:00 AM–5:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-23 through 2026-11-03 | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. | Source: https://locations.maricopa.vote | Status: published_final",
-      "hours": "Oct 23–24: 9:00 AM–5:00 PM\nOct 25: Closed\nOct 26–30: 9:00 AM–7:00 PM\nOct 31: 9:00 AM–5:00 PM\nNov 1: Closed\nNov 2: 9:00 AM–5:00 PM\nNov 3: 6:00 AM–7:00 PM",
+      "description": "Opens: Oct 23, 2026 | Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Early Voting | Hours: Oct 23–24: 9:00 AM–5:00 PM | Oct 25: Closed | Oct 26–30: 9:00 AM–7:00 PM | Oct 31: 9:00 AM–5:00 PM | Nov 1: Closed | Nov 2: Closed | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-23 through 2026-11-03 | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. | Source: https://locations.maricopa.vote | Status: published_final",
+      "hours": "Oct 23–24: 9:00 AM–5:00 PM\nOct 25: Closed\nOct 26–30: 9:00 AM–7:00 PM\nOct 31: 9:00 AM–5:00 PM\nNov 1: Closed\nNov 2: Closed\nNov 3: 6:00 AM–7:00 PM",
       "address": "18401 N 32Nd St, Phoenix, AZ 85032",
       "street": "18401 N 32Nd St",
       "city": "Phoenix",
@@ -6621,7 +6631,9 @@
       "site_name": "Paradise Valley Community College",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Maricopa County Elections (Nov 2, 9:06 AM): \"Due to power related issues, the Vote Centers located at Paradise Community College and Sunset Canyon School are temporarily closed. Please visit locations.maricopa.vote to find a nearby voting location.\"",
+      "county_note_es": "Elecciones del Condado Maricopa (2 de nov., 9:06 a. m.): \"Debido a problemas eléctricos, los centros de votación ubicados en Paradise Community College y Sunset Canyon School están cerrados temporalmente. Visite locations.maricopa.vote para encontrar un lugar de votación cercano.\""
     },
     {
       "name": "Paradise Valley Town Hall — Early Voting",
@@ -9001,8 +9013,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Election Day",
       "county": "Maricopa",
-      "description": "Opens: Nov 2, 2026| Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Election Day | Hours: Nov 2: 9:00 AM–5:00 PM | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-11-02 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. Non-electioneering site per county (**). | Source: https://locations.maricopa.vote | Status: published_final",
-      "hours": "Nov 2: 9:00 AM–5:00 PM\nNov 3: 6:00 AM–7:00 PM",
+      "description": "Opens: Nov 2, 2026| Voting system: Vote anywhere (vote centers) | County: Maricopa | Type: Election Day | Hours: Nov 2: Closed | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-11-02 through 2026-11-03 7:00 PM | Election: 2026 General Election | Notes: Vote center — any eligible Maricopa County voter. Non-electioneering site per county (**). | Source: https://locations.maricopa.vote | Status: published_final",
+      "hours": "Nov 2: Closed\nNov 3: 6:00 AM–7:00 PM",
       "address": "2727 E Siesta Ln, Phoenix, AZ 85050",
       "street": "2727 E Siesta Ln",
       "city": "Phoenix",
@@ -9013,7 +9025,9 @@
       "site_name": "Sunset Canyon-JPL Learning Center",
       "label_en": "Election Day",
       "label_es": "Día de la elección",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Maricopa County Elections (Nov 2, 9:06 AM): \"Due to power related issues, the Vote Centers located at Paradise Community College and Sunset Canyon School are temporarily closed. Please visit locations.maricopa.vote to find a nearby voting location.\"",
+      "county_note_es": "Elecciones del Condado Maricopa (2 de nov., 9:06 a. m.): \"Debido a problemas eléctricos, los centros de votación ubicados en Paradise Community College y Sunset Canyon School están cerrados temporalmente. Visite locations.maricopa.vote para encontrar un lugar de votación cercano.\""
     },
     {
       "name": "Tempe Mountain Park Health Center — Election Day",
@@ -23907,5 +23921,5 @@
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-11-01T17:38:51-07:00"
+  "last_checked": "2026-11-02T09:15:47-07:00"
 }
