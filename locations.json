@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-02T11:15:46-07:00",
+  "generated_at": "2026-11-02T11:36:15-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -17558,13 +17558,13 @@
       "name": "Apache Junction Recorder's Office — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
-      "closes": "Oct 30, 2026",
-      "closes_iso": "2026-10-30",
+      "closes": "Nov 3, 2026",
+      "closes_iso": "2026-11-03",
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Pinal",
-      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Mon-Fri 8am–5pm; ED 6am–7pm | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
-      "hours": "Mon-Fri 8am–5pm; ED 6am–7pm",
+      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Oct 7–9: 8:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 8:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–23: 8:00 AM–5:00 PM | Oct 24–25: Closed | Oct 26–30: 8:00 AM–5:00 PM | Oct 31–Nov 2: Closed | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
+      "hours": "Oct 7–9: 8:00 AM–5:00 PM\nOct 10–11: Closed\nOct 12–16: 8:00 AM–5:00 PM\nOct 17–18: Closed\nOct 19–23: 8:00 AM–5:00 PM\nOct 24–25: Closed\nOct 26–30: 8:00 AM–5:00 PM\nOct 31–Nov 2: Closed\nNov 3: 6:00 AM–7:00 PM",
       "address": "575 N Idaho Road Ste #800, Apache Junction, AZ 85119",
       "street": "575 N Idaho Road Ste #800",
       "city": "Apache Junction",
@@ -17575,19 +17575,19 @@
       "site_name": "Apache Junction Recorder's Office",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": "lunes a viernes 8:00 a. m.–5:00 p. m.; día de la elección 6:00 a. m.–7:00 p. m."
+      "hours_es": "7–9 de oct.: 8:00 a. m.–5:00 p. m.\n10–11 de oct.: cerrado\n12–16 de oct.: 8:00 a. m.–5:00 p. m.\n17–18 de oct.: cerrado\n19–23 de oct.: 8:00 a. m.–5:00 p. m.\n24–25 de oct.: cerrado\n26–30 de oct.: 8:00 a. m.–5:00 p. m.\n31 de oct.–2 de nov.: cerrado\n3 de nov.: 6:00 a. m.–7:00 p. m."
     },
     {
       "name": "Casa Grande Recorder's Office — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
-      "closes": "Oct 30, 2026",
-      "closes_iso": "2026-10-30",
+      "closes": "Nov 3, 2026",
+      "closes_iso": "2026-11-03",
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Pinal",
-      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Mon-Fri 8am–5pm; ED 7am–7pm | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
-      "hours": "Mon-Fri 8am–5pm; ED 7am–7pm",
+      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Oct 7–9: 8:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 8:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–23: 8:00 AM–5:00 PM | Oct 24–25: Closed | Oct 26–30: 8:00 AM–5:00 PM | Oct 31–Nov 2: Closed | Nov 3: 7:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
+      "hours": "Oct 7–9: 8:00 AM–5:00 PM\nOct 10–11: Closed\nOct 12–16: 8:00 AM–5:00 PM\nOct 17–18: Closed\nOct 19–23: 8:00 AM–5:00 PM\nOct 24–25: Closed\nOct 26–30: 8:00 AM–5:00 PM\nOct 31–Nov 2: Closed\nNov 3: 7:00 AM–7:00 PM",
       "address": "820 E Cottonwood Lane Ste A-2, Casa Grande, AZ 85122",
       "street": "820 E Cottonwood Lane Ste A-2",
       "city": "Casa Grande",
@@ -17598,19 +17598,19 @@
       "site_name": "Casa Grande Recorder's Office",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": ""
+      "hours_es": "7–9 de oct.: 8:00 a. m.–5:00 p. m.\n10–11 de oct.: cerrado\n12–16 de oct.: 8:00 a. m.–5:00 p. m.\n17–18 de oct.: cerrado\n19–23 de oct.: 8:00 a. m.–5:00 p. m.\n24–25 de oct.: cerrado\n26–30 de oct.: 8:00 a. m.–5:00 p. m.\n31 de oct.–2 de nov.: cerrado\n3 de nov.: 7:00 a. m.–7:00 p. m."
     },
     {
       "name": "Florence Pinal VOTES — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
-      "closes": "Oct 30, 2026",
-      "closes_iso": "2026-10-30",
+      "closes": "Nov 3, 2026",
+      "closes_iso": "2026-11-03",
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Pinal",
-      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Mon-Fri 8am–5pm; ED 7am–7pm | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
-      "hours": "Mon-Fri 8am–5pm; ED 7am–7pm",
+      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Oct 7–9: 8:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 8:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–23: 8:00 AM–5:00 PM | Oct 24–25: Closed | Oct 26–30: 8:00 AM–5:00 PM | Oct 31–Nov 2: Closed | Nov 3: 7:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
+      "hours": "Oct 7–9: 8:00 AM–5:00 PM\nOct 10–11: Closed\nOct 12–16: 8:00 AM–5:00 PM\nOct 17–18: Closed\nOct 19–23: 8:00 AM–5:00 PM\nOct 24–25: Closed\nOct 26–30: 8:00 AM–5:00 PM\nOct 31–Nov 2: Closed\nNov 3: 7:00 AM–7:00 PM",
       "address": "320 W. Adamsville Road, Florence, AZ 85132",
       "street": "320 W. Adamsville Road",
       "city": "Florence",
@@ -17621,19 +17621,19 @@
       "site_name": "Florence Pinal VOTES",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": ""
+      "hours_es": "7–9 de oct.: 8:00 a. m.–5:00 p. m.\n10–11 de oct.: cerrado\n12–16 de oct.: 8:00 a. m.–5:00 p. m.\n17–18 de oct.: cerrado\n19–23 de oct.: 8:00 a. m.–5:00 p. m.\n24–25 de oct.: cerrado\n26–30 de oct.: 8:00 a. m.–5:00 p. m.\n31 de oct.–2 de nov.: cerrado\n3 de nov.: 7:00 a. m.–7:00 p. m."
     },
     {
       "name": "Maricopa Recorder's Office — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
-      "closes": "Oct 30, 2026",
-      "closes_iso": "2026-10-30",
+      "closes": "Nov 3, 2026",
+      "closes_iso": "2026-11-03",
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Pinal",
-      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Mon-Fri 8am–5pm; ED 6am–7pm | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
-      "hours": "Mon-Fri 8am–5pm; ED 6am–7pm",
+      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Oct 7–9: 8:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 8:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–23: 8:00 AM–5:00 PM | Oct 24–25: Closed | Oct 26–30: 8:00 AM–5:00 PM | Oct 31–Nov 2: Closed | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
+      "hours": "Oct 7–9: 8:00 AM–5:00 PM\nOct 10–11: Closed\nOct 12–16: 8:00 AM–5:00 PM\nOct 17–18: Closed\nOct 19–23: 8:00 AM–5:00 PM\nOct 24–25: Closed\nOct 26–30: 8:00 AM–5:00 PM\nOct 31–Nov 2: Closed\nNov 3: 6:00 AM–7:00 PM",
       "address": "19955 N Wilson Ave Ste #100, Maricopa, AZ 85139",
       "street": "19955 N Wilson Ave Ste #100",
       "city": "Maricopa",
@@ -17644,19 +17644,19 @@
       "site_name": "Maricopa Recorder's Office",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": "lunes a viernes 8:00 a. m.–5:00 p. m.; día de la elección 6:00 a. m.–7:00 p. m."
+      "hours_es": "7–9 de oct.: 8:00 a. m.–5:00 p. m.\n10–11 de oct.: cerrado\n12–16 de oct.: 8:00 a. m.–5:00 p. m.\n17–18 de oct.: cerrado\n19–23 de oct.: 8:00 a. m.–5:00 p. m.\n24–25 de oct.: cerrado\n26–30 de oct.: 8:00 a. m.–5:00 p. m.\n31 de oct.–2 de nov.: cerrado\n3 de nov.: 6:00 a. m.–7:00 p. m."
     },
     {
       "name": "San Tan Valley Recorder's Office — Early Voting",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
-      "closes": "Oct 30, 2026",
-      "closes_iso": "2026-10-30",
+      "closes": "Nov 3, 2026",
+      "closes_iso": "2026-11-03",
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Early Voting",
       "county": "Pinal",
-      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Mon-Fri 8am–5pm; ED 6am–7pm | Dates: 2026-10-07 to 2026-10-30 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
-      "hours": "Mon-Fri 8am–5pm; ED 6am–7pm",
+      "description": "Opens: Oct 7, 2026 | Voting system: Precinct voting | County: Pinal | Type: Early Voting | Hours: Oct 7–9: 8:00 AM–5:00 PM | Oct 10–11: Closed | Oct 12–16: 8:00 AM–5:00 PM | Oct 17–18: Closed | Oct 19–23: 8:00 AM–5:00 PM | Oct 24–25: Closed | Oct 26–30: 8:00 AM–5:00 PM | Oct 31–Nov 2: Closed | Nov 3: 6:00 AM–7:00 PM | Dates: 2026-10-07 through 2026-11-03 | Election: 2026 General Election | Notes: EV + on-site drop box | Source: https://www.pinal.gov/1455/Early-In-Person-Voting-Sites-and-Drop-Bo | Status: published_final",
+      "hours": "Oct 7–9: 8:00 AM–5:00 PM\nOct 10–11: Closed\nOct 12–16: 8:00 AM–5:00 PM\nOct 17–18: Closed\nOct 19–23: 8:00 AM–5:00 PM\nOct 24–25: Closed\nOct 26–30: 8:00 AM–5:00 PM\nOct 31–Nov 2: Closed\nNov 3: 6:00 AM–7:00 PM",
       "address": "31505 N Schnepf Road Building A, San Tan Valley, AZ 85143",
       "street": "31505 N Schnepf Road Building A",
       "city": "San Tan Valley",
@@ -17667,7 +17667,7 @@
       "site_name": "San Tan Valley Recorder's Office",
       "label_en": "Early Voting",
       "label_es": "Votación anticipada",
-      "hours_es": "lunes a viernes 8:00 a. m.–5:00 p. m.; día de la elección 6:00 a. m.–7:00 p. m."
+      "hours_es": "7–9 de oct.: 8:00 a. m.–5:00 p. m.\n10–11 de oct.: cerrado\n12–16 de oct.: 8:00 a. m.–5:00 p. m.\n17–18 de oct.: cerrado\n19–23 de oct.: 8:00 a. m.–5:00 p. m.\n24–25 de oct.: cerrado\n26–30 de oct.: 8:00 a. m.–5:00 p. m.\n31 de oct.–2 de nov.: cerrado\n3 de nov.: 6:00 a. m.–7:00 p. m."
     },
     {
       "name": "Church of Jesus Christ of Latter Day Saints - Combs Rd. — Election Day",
@@ -23921,5 +23921,5 @@
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-11-02T11:15:46-07:00"
+  "last_checked": "2026-11-02T11:36:15-07:00"
 }
