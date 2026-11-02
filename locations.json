@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-02T09:15:47-07:00",
+  "generated_at": "2026-11-02T09:18:58-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -1161,8 +1161,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Cochise",
-      "description": "Opens: Oct 7, 2026 | Closes: Nov 2, 2026 | Voting system: Vote anywhere (vote centers) | County: Cochise | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-02 5:00 PM | Election: 2026 General Election | Notes: All county drop boxes close Mon Nov 2 at 5:00 PM; on Election Day drop off at any vote center or the Recorder's Office in Bisbee 6 AM–7 PM; County: drop boxes remain open through Nov 2 at 5:00 PM (early voting/ballot mailing began Oct 7) | Source: https://www.cochise.az.gov/498/Recorder | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 2, 2026 | Voting system: Vote anywhere (vote centers) | County: Cochise | Type: Drop Box | Hours: 24 hours, 7 days a week; closes Mon Nov 2 at 5:00 PM | Dates: 2026-10-07 through 2026-11-02 5:00 PM | Election: 2026 General Election | Notes: All county drop boxes close Mon Nov 2 at 5:00 PM; on Election Day drop off at any vote center or the Recorder's Office in Bisbee 6 AM–7 PM; County: drop boxes remain open through Nov 2 at 5:00 PM (early voting/ballot mailing began Oct 7) | Source: https://www.cochise.az.gov/498/Recorder | Status: published_final",
+      "hours": "24 hours, 7 days a week; closes Mon Nov 2 at 5:00 PM",
       "address": "1415 Melody Ln Bldg B, Bisbee, AZ",
       "street": "1415 Melody Ln Bldg B",
       "city": "Bisbee",
@@ -1173,7 +1173,7 @@
       "site_name": "Cochise County Recorder (Bisbee)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": "",
+      "hours_es": "24 horas, los 7 días de la semana; cierra el lun. 2 de nov. a las 5:00 p. m.",
       "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
       "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
@@ -1236,8 +1236,8 @@
       "voting_system": "Vote anywhere (vote centers)",
       "type": "Drop Box",
       "county": "Cochise",
-      "description": "Opens: Oct 7, 2026 | Closes: Nov 2, 2026 | Voting system: Vote anywhere (vote centers) | County: Cochise | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-02 5:00 PM | Election: 2026 General Election | Notes: All county drop boxes close Mon Nov 2 at 5:00 PM; on Election Day drop off at any vote center or the Recorder's Office in Bisbee 6 AM–7 PM; County: drop boxes remain open through Nov 2 at 5:00 PM (early voting/ballot mailing began Oct 7) | Source: https://www.cochise.az.gov/498/Recorder | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "description": "Opens: Oct 7, 2026 | Closes: Nov 2, 2026 | Voting system: Vote anywhere (vote centers) | County: Cochise | Type: Drop Box | Hours: 24 hours, 7 days a week; closes Mon Nov 2 at 5:00 PM | Dates: 2026-10-07 through 2026-11-02 5:00 PM | Election: 2026 General Election | Notes: All county drop boxes close Mon Nov 2 at 5:00 PM; on Election Day drop off at any vote center or the Recorder's Office in Bisbee 6 AM–7 PM; County: drop boxes remain open through Nov 2 at 5:00 PM (early voting/ballot mailing began Oct 7) | Source: https://www.cochise.az.gov/498/Recorder | Status: published_final",
+      "hours": "24 hours, 7 days a week; closes Mon Nov 2 at 5:00 PM",
       "address": "4115 E Foothills Dr, Sierra Vista, AZ",
       "street": "4115 E Foothills Dr",
       "city": "Sierra Vista",
@@ -1248,7 +1248,7 @@
       "site_name": "County Service Center (Sierra Vista)",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": "",
+      "hours_es": "24 horas, los 7 días de la semana; cierra el lun. 2 de nov. a las 5:00 p. m.",
       "county_note": "Cochise County Recorder: \"Ballot drop boxes will remain open through November 2nd at 5:00 pm. On Election day, you may drop off your early ballot at any Vote Center or the Recorder's Office in Bisbee from 6:00 am to 7:00 pm.\"",
       "county_note_es": "Registrador del Condado Cochise: \"Los buzones para boletas permanecerán abiertos hasta el 2 de noviembre a las 5:00 p. m. El día de la elección, puede entregar su boleta anticipada en cualquier centro de votación o en la Oficina del Registrador en Bisbee de 6:00 a. m. a 7:00 p. m.\""
     },
@@ -23921,5 +23921,5 @@
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-11-02T09:15:47-07:00"
+  "last_checked": "2026-11-02T09:18:58-07:00"
 }
