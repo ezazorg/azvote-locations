@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-02T15:10:36-07:00",
+  "generated_at": "2026-11-02T15:12:00-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -4804,8 +4804,8 @@
       "county": "Greenlee",
       "description": "Opens: Nov 3, 2026 | Voting system: Mixed (vote centers + precinct) | County: Greenlee | Type: Election Day | Hours: 6:00 AM – 7:00 PM | Dates: 2026-11-03 | Election: 2026 General Election | Notes: All precincts (Vote Center). PDF undated (file created 2023-11-27); same sites as 2022 General PDF. | Source: https://greenlee.az.gov/wp-content/uploads/2020/07/POLLING-LOCATIONS-NO-DATE-1.pdf | Status: prior_election_fallback",
       "hours": "6:00 AM – 7:00 PM",
-      "address": "1258 Fairgrounds Rd, Duncan, AZ",
-      "street": "1258 Fairgrounds Rd",
+      "address": "1684 Fairgrounds Rd, Duncan, AZ",
+      "street": "1684 Fairgrounds Rd",
       "city": "Duncan",
       "state": "AZ",
       "zip": "",
@@ -23927,5 +23927,5 @@
       "precinct_ballots_es": "Bodaway 42, Cameron 43, Coppermine 47, Coalmine 48, Inscription House 61, Kaibeto 65, Lechee 67, Leupp 69, Moenkopi 70, Navajo Mountain 71, Tolani Lake 88, Tonalea 90 y Tuba City 95"
     }
   ],
-  "last_checked": "2026-11-02T15:10:36-07:00"
+  "last_checked": "2026-11-02T15:12:00-07:00"
 }
