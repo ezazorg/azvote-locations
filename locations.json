@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-03T06:09:04-07:00",
+  "generated_at": "2026-11-03T07:19:05-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -1833,8 +1833,8 @@
       "name": "Coconino County Voter Services, Flagstaff Mall — Drop Box",
       "opens": "Oct 7, 2026",
       "opens_iso": "2026-10-07",
-      "closes": "Nov 3, 2026",
-      "closes_iso": "2026-11-03",
+      "closes": "Nov 2, 2026",
+      "closes_iso": "2026-11-02",
       "voting_system": "Mixed (vote centers + precinct)",
       "type": "Drop Box",
       "county": "Coconino",
@@ -1850,7 +1850,9 @@
       "site_name": "Coconino County Voter Services, Flagstaff Mall",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "",
+      "county_note": "Coconino County removed this drop box from its General Election drop box list on the morning of Nov 3. Return ballots at any other Coconino drop box or any polling place or vote center by 7:00 PM.",
+      "county_note_es": "El condado de Coconino quitó este buzón de su lista de buzones para la Elección General la mañana del 3 de nov. Entregue su boleta en cualquier otro buzón de Coconino o en cualquier lugar de votación o centro de votación antes de las 7:00 p. m."
     },
     {
       "name": "Flagstaff Aquaplex — Drop Box",
