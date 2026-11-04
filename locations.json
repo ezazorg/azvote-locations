@@ -1,6 +1,6 @@
 {
   "election": "2026 General Election",
-  "generated_at": "2026-11-03T18:19:50-07:00",
+  "generated_at": "2026-11-03T19:04:56-07:00",
   "locations": [
     {
       "name": "Apache County Recorder's Office — Early Voting",
@@ -1701,7 +1701,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): County/public drop box site — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box located off 3rd Street | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "2304 N. 3rd St, Flagstaff, AZ",
       "street": "2304 N. 3rd St",
       "city": "Flagstaff",
@@ -1712,7 +1712,7 @@
       "site_name": "3rd Street",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "ADOT Motor Vehicle Division — Drop Box",
@@ -1724,7 +1724,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): ADOT MVD (state public property) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box at Woodlands Village Blvd entrance | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "1959 S. Woodlands Village Blvd, Flagstaff, AZ",
       "street": "1959 S. Woodlands Village Blvd",
       "city": "Flagstaff",
@@ -1735,7 +1735,7 @@
       "site_name": "ADOT Motor Vehicle Division",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Alta Edison Native American Outreach Center — Drop Box",
@@ -1770,7 +1770,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): Coconino County public building (Community Development) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box next to building | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "2500 N. Fort Valley Rd, Flagstaff, AZ",
       "street": "2500 N. Fort Valley Rd",
       "city": "Flagstaff",
@@ -1781,7 +1781,7 @@
       "site_name": "Coconino County Community Development",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Coconino County Health and Human Services — Drop Box",
@@ -1793,7 +1793,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): Coconino County public building (HHS) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: White mailbox located near entrance of building | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "2625 N. King St, Flagstaff, AZ",
       "street": "2625 N. King St",
       "city": "Flagstaff",
@@ -1804,7 +1804,7 @@
       "site_name": "Coconino County Health and Human Services",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Coconino County Recorder’s Office — Drop Box",
@@ -1816,7 +1816,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): Coconino County public building (Recorder) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: White mailbox near the flagpole next to the parking lot | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "110 E. Cherry Ave, Flagstaff, AZ 86001",
       "street": "110 E. Cherry Ave",
       "city": "Flagstaff",
@@ -1827,7 +1827,7 @@
       "site_name": "Coconino County Recorder’s Office",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Coconino County Voter Services, Flagstaff Mall — Drop Box",
@@ -1864,7 +1864,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): City of Flagstaff Aquaplex (public recreation) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "1702 N. Fourth St, Flagstaff, AZ",
       "street": "1702 N. Fourth St",
       "city": "Flagstaff",
@@ -1875,7 +1875,7 @@
       "site_name": "Flagstaff Aquaplex",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Flagstaff Fire Station #6 — Drop Box",
@@ -1887,7 +1887,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): City of Flagstaff Fire Station (public) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box located near driveway | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "3877 S. Lake Mary Rd, Flagstaff, AZ",
       "street": "3877 S. Lake Mary Rd",
       "city": "Flagstaff",
@@ -1898,7 +1898,7 @@
       "site_name": "Flagstaff Fire Station #6",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Highlands Fire Station #23 — Drop Box",
@@ -1910,7 +1910,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "3350 Old Munds Hwy, Flagstaff, AZ",
       "street": "3350 Old Munds Hwy",
       "city": "Flagstaff",
@@ -1921,7 +1921,7 @@
       "site_name": "Highlands Fire Station #23",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "NAU Bookstore, S. Beaver Street — Drop Box",
@@ -1933,7 +1933,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | eCanvasser excluded (Flagstaff sign policy): NAU campus (state university public property) — Flagstaff City Code 10-50.100: no signs on public property | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: NAU Campus, Flagstaff; Red, white & blue drop box in front of main entrance | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "S. Beaver Street (NAU Campus), Flagstaff, AZ",
       "street": "S. Beaver Street (NAU Campus)",
       "city": "Flagstaff",
@@ -1944,7 +1944,7 @@
       "site_name": "NAU Bookstore, S. Beaver Street",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Page City Hall — Drop Box",
@@ -1956,7 +1956,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "697 Vista Ave, Page, AZ",
       "street": "697 Vista Ave",
       "city": "Page",
@@ -1967,7 +1967,7 @@
       "site_name": "Page City Hall",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Pinewood Fire Station — Drop Box",
@@ -1979,7 +1979,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "475 E. Pinewood Blvd, Munds Park, AZ",
       "street": "475 E. Pinewood Blvd",
       "city": "Munds Park",
@@ -1990,7 +1990,7 @@
       "site_name": "Pinewood Fire Station",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Ponderosa Fire Station #82 — Drop Box",
@@ -2002,7 +2002,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "11951 W. Shadow Mountain Dr, Bellemont, AZ",
       "street": "11951 W. Shadow Mountain Dr",
       "city": "Bellemont",
@@ -2013,7 +2013,7 @@
       "site_name": "Ponderosa Fire Station #82",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Sedona City Hall — Drop Box",
@@ -2025,7 +2025,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Silver drop box near entrance to building | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "102 Roadrunner Dr, Sedona, AZ",
       "street": "102 Roadrunner Dr",
       "city": "Sedona",
@@ -2036,7 +2036,7 @@
       "site_name": "Sedona City Hall",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Summit Fire Station #32 — Drop Box",
@@ -2048,7 +2048,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "8905 Koch Field Rd, Flagstaff, AZ",
       "street": "8905 Koch Field Rd",
       "city": "Flagstaff",
@@ -2059,7 +2059,7 @@
       "site_name": "Summit Fire Station #32",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Williams City Hall — Drop Box",
@@ -2071,7 +2071,7 @@
       "type": "Drop Box",
       "county": "Coconino",
       "description": "Opens: Oct 7, 2026 | Voting system: Mixed (vote centers + precinct) | County: Coconino | Type: Drop Box | Hours: 24 hours, 7 days a week | Dates: 2026-10-07 through 2026-11-03 7PM | Election: 2026 General Election | Notes: Red, white & blue drop box located at the south side of the building | Source: https://www.coconino.az.gov/3600/November-3-2026-General-Election | Status: published_final",
-      "hours": "24 hours, 7 days a week",
+      "hours": "24 hours, 7 days a week; closes Tue Nov 3 at 7:00 PM",
       "address": "113 S. 1st St, Williams, AZ",
       "street": "113 S. 1st St",
       "city": "Williams",
@@ -2082,7 +2082,7 @@
       "site_name": "Williams City Hall",
       "label_en": "Drop Box",
       "label_es": "Buzón de boletas",
-      "hours_es": ""
+      "hours_es": "24 horas, los 7 días de la semana; cierra el mar. 3 de nov. a las 7:00 p. m."
     },
     {
       "name": "Alta Edison Native American Outreach Center — Early Voting",
